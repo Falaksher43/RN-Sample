@@ -1,0 +1,72 @@
+﻿battery,exam,name_internal,name_frontend,unit,red percentile,green percentile,better,default_scale_min,default_scale_max,default_low,default_high
+NeuroCog1,CategoryFluency,num_correct,Number Correct,#,3,32,higher,0,30,8,15
+NeuroCog1,CategoryFluency,num_repeats,Number of Repeats,#,97,68,lower,0,10,0,3
+NeuroCog1,CategoryFluency,num_intrusions,Number of Intrusions,#,97,68,lower,0,10,0,3
+NeuroCog1,LetterFluency,num_correct,Number Correct,#,3,32,higher,0,30,5,10
+NeuroCog1,LetterFluency,num_repeats,Number of Repeats,#,97,68,lower,0,10,0,3
+NeuroCog1,LetterFluency,num_intrusions,Number of Intrusions,#,97,68,lower,0,10,0,2
+NeuroCog1,TrailMaking,total_time,Total Time,s,97,68,lower,0,100,50,70
+NeuroCog1,TrailMaking,error_count,Error Count,#,3,32,lower,0,25,7,15
+NeuroCog1,TrailMaking,repeat_count,Repeat Count,#,3,32,lower,0,25,5,15
+NeuroCog1,Trailmaking,num_correct,Number Correct,#,3,32,higher,0,25,10,20
+NeuroCog1,TrailMaking2,total_time,Total Time,s,97,68,lower,0,100,50,70
+NeuroCog1,TrailMaking2,error_count,Error Count,#,3,32,lower,0,25,7,15
+NeuroCog1,TrailMaking2,repeat_count,Repeat Count,#,3,32,lower,0,25,5,15
+NeuroCog1,Trailmaking2,num_correct,Number Correct,#,3,32,higher,0,25,10,20
+,,,,,,,,,,,
+,,,,,,,,,,,
+NeuroCog2,BostonNaming,num_correct,Items Correct,#,0,0,higher,0,15,0,15
+NeuroCog2,BostonNaming,accuracy,Accuracy,%,25,75,higher,0,100,5,25
+NeuroCOg2,BostonNaming,speed_median,Median Speed,items/sec,25,75,<check>,0,0,0,0
+NeuroCog2,Stroop,speed_median,Median Speed,items/sec,25,75,<check>,0,0,0,0
+NeuroCog2,Stroop,accuracy,Accuracy,%,25,75,higher,0,0,0,0
+NeuroCog2,Stroop,num_correct,Number Correct,#,25,75,?!,0,0,0,0
+NeuroCog2,DigitSpanForward,max_level_perfect,Perfect performance level,#,25,75,higher,0,10,0,7
+NeuroCog2,DigitSpanForward,max_level,Highest level,#,25,75,higher,0,10,0,7
+NeuroCog2,DigitSpanBackward,max_level_perfect,Perfect performance level,#,25,75,higher,0,8,0,5
+NeuroCog2,DigitSpanBackward,max_level,Highest level,#,25,75,higher,0,8,0,5
+,,,,,,,,,,,
+,,,,,,,,,,,
+NeuroCog3,Tapping,tap_frequency,Frequency of Taps,#/s,0,0,! NORMAL,0,0,0,0
+NeuroCog3,Tapping,alternation_frequency,Alternation Frequency,#/s,0,0,higher,0,0,0,0
+NeuroCog3,Tapping,right_section_right_presses,Right Section Right Presses,#,0,0,higher,0,100,20,50
+NeuroCog3,Tapping,left_section_left_presses,Left Section Left Presses,#,25,75,higher,0,100,20,50
+NeuroCog3,Tapping,alternate_section_right_presses,Alternate Section Right Presses,#,25,75,higher,0,100,20,40
+NeuroCog3,Tapping,alternate_section_left_presses,Alternate Section Left Presses,#,25,75,higher,0,100,20,40
+NeuroCog3,Tapping,ordering_errors,Ordering Errors,#,25,75,lower,0,50,10,30
+NeuroCog3,MemoryEncoding,max_words_correct,Maximum Words Correct,#,25,75,higher,0,15,3,8
+NeuroCog3,MemoryEncoding,num_intrusions,Number of Intrusions,#,25,75,lower,0,10,3,8
+NeuroCog3,MemoryRecall,recall_num_correct,Number Correctly Recalled,#,25,75,higher,0,15,3,8
+NeuroCog3,MemoryRecall,recall_num_intrusions,Number of Intrusions,#,25,75,lower,0,10,3,8
+NeuroCog3,MemoryRecall,recognize_num_correct,Number Correctly Recognized,#,25,75,higher,0,5,2,4
+,,,,,,,,,,,
+VOR,PupillaryReflex,pupil_max_constric,Pupil Max Constriction,mm,25,75,<check>,0,2,0.5,0.9
+VOR,PupillaryReflex,pupil_max_dilation,Pupil Max Dilation,mm,25,75,<check>,1.5,6,2,4
+VOR,PupillaryReflex,pupil_range,Pupil Diameter Range,mm,25,75,higher,1.5,6,2,4
+VOR,PupillaryReflex,pupil_dilation_velocity,Pupil Dilation Speed,mm/s,25,75,higher,-3,0,-0.5,-0.1
+VOR,PupillaryReflex,aniscoria,Pupil Asymmetry,Yes/No,-1,-1,No,0,0,0,0
+VOR1,Prosaccade,number_of_saccades,Number of Saccades,#,30,70,lower,0,120,50,90
+VOR1,Prosaccade,saccades_per_movement,Saccades/Movement,#,25,75,lower,0,7,3,4
+VOR1,Prosaccade,median_reaction_time,Median Reaction Time,s,25,75,lower,0,2,0.5,1.5
+VOR1,Prosaccade,duration,Duration,s,25,75,lower,0,100,50,80
+VOR1,Prosaccade,abnormal_path_proportion,Abnormal Path Proportion,#,25,75,lower,0,1,0.1,0.5
+VOR2,SmoothPursuit2D,error_magnitude,Median error magnitude,#,25,75,lower,0,3,0.3,0.5
+VOR2,SmoothPursuit2D,error_angular,Median phase lag,degrees,25,75,lower,0,50,15,30
+VOR2,SmoothPursuit2D,error_radial,Median radial error,radians,25,75,(too high or too low),-2,2,-0.5,0.5
+VOR2,SmoothPursuit,median_lag_left,Median phase lag left,s,25,75,lower,0.08,0.15,0,0.3
+VOR2,SmoothPursuit,median_lag_right,Median phase lag right,s,25,75,lower,0.08,0.15,0,0.3
+,,,,,,,,,,,
+VOR,Convergence,stimulus_phase_lag,Stimulus Phase Lag,s,5,50,lower,0,1,0.25,0.4
+VOR,Convergence,stimulus_correlation,Stimulus Correlation,#,25,75,higher,0,1,0.5,0.8
+VOR,Convergence,LR_correlation,Disconjugate Break,#,5,50,higher,0,1,0.4,0.7
+VOR,Convergence,LR_phase_lag,Phase Lag,radians,25,75,<check>,0,1.5,15,30
+VOR,SelfPacedSaccade,sacc_per_sec,Saccades/Second,#,25,75,higher,0,10,1,4
+VOR,SelfPacedSaccade,median_vel,Median Velocity,#,25,75,<check>,0,100,5,10
+VOR,SelfPacedSaccade,vel_acc,Velocity/Accuracy,#,25,75,<check>,0,20,2,5
+VOR,SelfPacedSaccade,accuracy,Accuracy,#,25,75,higher,0,1,0.05,0.25
+,,,,,,,,,,,
+,,,,,,,,,,,
+NeuroCog1,Trailmaking,error_rate,Error Rate,%,97,68,lower,0,100,1,15
+NeuroCog1,Trailmaking,avg_speed,Average Speed,total sec,97,68,lower,40,90,40,90
+NeuroCog1,Trailmaking2,error_rate,Error Rate,%,97,68,lower,0,100,5,20
+NeuroCog1,Trailmaking2,avg_speed,Average Speed,total sec,97,68,lower,140,250,140,250

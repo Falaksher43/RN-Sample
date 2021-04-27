@@ -1,0 +1,115 @@
+style(lang="scss").
+  @import "fontawesome/scss/solid.scss";
+  @page {
+    margin: 1cm 0 2cm 0cm;
+    @bottom-center {
+      content: "Copyright © 2020. REACT Neuro, Inc. All rights reserved.";
+      font-size: xx-small;
+      font-family: helvetica;
+      font-weight: bold;
+      color: gray;
+    }
+  }
+  h2 {
+    color:#718893;
+  }
+  h3 {
+    //- color:#9AB0BB;
+    color: black;
+  }
+  h4 {
+    // - color: #9AB0BB;
+    color: black;
+  }
+  p.description {
+    line-height: 105%;
+    color: gray;
+  }
+  p.alert {
+    font-size: large;
+    font-weight: bold;
+  }
+  td.bold {
+    text-align: center
+  }
+
+img(style="width:150px; display:block; margin:0 auto; float:right"
+    src="file:///{{ logo }}")
+
+#sidebar: p REACT Neuro, Inc. Brain Health Report.
+
+h2 {{ title }}
+
+h3.ui.label
+  | User_Id: {{ user_id }}
+  br
+  | Age: {{ age }}
+
+<i class="fas fa-ad"></i>
+
+img(style="width:700px; display:block; margin:30px 0 30px -20px;"
+    src="file:///{{ exam_history_and_map_graph }}")
+
+table.ui.celled.table
+  thead
+    tr
+      th Name
+      th Age
+      th Location
+      th Date
+  tbody
+    tr
+      td(data-label='Name').bold {{ name  }}
+      td(data-label='Age').bold {{ age }}
+      td(data-label='Location').bold {{ location }}
+      td(data-label='Date').bold {{ date }}
+
+.ui.hidden.divider
+
+.ui.container
+  .ui.icon.message.green.block
+    i.check.circle.icon
+    p.alert No Abnormal Results Detected.
+
+.ui.hidden.divider
+
+:markdown
+  ###  Vestibulo-Ocular Digital Exams Battery 2
+
+p.description
+  | The vestibulo-ocular battery 2 is designed to assess the coordinated movements of the eyes and head. These exams can provide information on saccadic movements, accuracy, reaction times, as well as the pupillary light reflex, and synchronized coordination between eye and head movements. The battery is often applied in the setting of an acute head injury or concussion and can provide quantitative metrics to track symptoms throughout recovery.
+
+
+.ui.divided.selection.list
+  a.item
+    .ui.horizontal.label(class="yellow") smooth pursuit 2d
+    .ui.basic.label(class= "yellow")
+      | value metric1
+    .ui.basic.label(class= "green")
+      | value metric2
+    .ui.basic.label(class="green")
+      | value metric3
+  a.item
+    .ui.horizontal.label(class="green") VOR XC
+    .ui.basic.label(class= "green")
+      | value metric1
+    .ui.basic.label(class= "green")
+      | value metric2
+    .ui.basic.label(class= self_paced_vel_acc_color)
+      | value metric3
+  a.item
+    .ui.horizontal.label(class="green") self-paced saccades
+    .ui.basic.label(class= "green")
+      | value metric1
+    .ui.basic.label(class= "red")
+      | value metric2
+    .ui.basic.label(class= "green")
+      | value metric3
+  a.item
+    .ui.horizontal.label(class="red") gaze
+    .ui.basic.label(class= "green")
+      | value metric1
+    .ui.basic.label(class= "green")
+      | value metric2
+    .ui.basic.label(class= "green")
+      | value metric3

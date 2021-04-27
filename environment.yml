@@ -1,0 +1,44 @@
+name: reactn
+dependencies:
+  - python=3.6.9
+  - numpy=1.17.4
+  - pandas=0.25.3
+  - matplotlib=3.1.1
+  - scipy=1.3.1
+  - seaborn=0.9
+  - simplejson=3.17
+  - jinja2
+  - psycopg2=2.8
+  - pylint=2.4
+  - flask
+  - boto3
+  - pytest
+  - pip=19.3
+  - scikit-learn
+  - pip:
+    - spacy
+    - inflect
+    - spacy-lookups-data
+    - plotly
+    - ipywidgets
+    - dash
+    # - calmap
+    # - mapbox
+    # - geopy
+    - Pillow
+    - mpld3
+    - json2html
+    - ipykernel
+    - pandasgui
+    - ptvsd>=4.2
+    - flask_restful
+    - pyquaternion
+    - cairosvg
+    - cairocffi
+    - sagemaker
+    - pydub
+    - s3fs
+    # - google-cloud-storage
+    # - google-cloud-speech
+    - praat-parselmouth
+    - python-Levenshtein

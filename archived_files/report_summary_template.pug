@@ -1,0 +1,134 @@
+style(lang="scss").
+  @import "fontawesome/scss/solid.scss";
+  @page {
+    margin: 1cm 0 2cm 0cm;
+    @bottom-center {
+      content: "Copyright © 2020. REACT Neuro, Inc. All rights reserved.";
+      font-size: xx-small;
+      font-family: helvetica;
+      font-weight: bold;
+      color: gray;
+    }
+  }
+  h2 {
+    color:#718893;
+  }
+  h3 {
+    //- color:#9AB0BB;
+    color: black;
+  }
+  h4 {
+    // - color: #9AB0BB;
+    color: black;
+  }
+  p.description {
+    line-height: 105%;
+    color: gray;
+  }
+  p.alert {
+    font-size: large;
+    font-weight: bold;
+  }
+  td.bold {
+    text-align: center
+  }
+
+img(style="width:150px; display:block; margin:0 auto; float:right"
+    src="file:///{{ logo }}")
+
+#sidebar: p REACT Neuro, Inc. Brain Health Report.
+
+h2 {{ title }}
+
+h3.ui.label
+  | User_Id: {{ user_id }}
+  br
+  | Age: {{ age }}
+
+<i class="fas fa-ad"></i>
+
+img(style="width:700px; display:block; margin:30px 0 30px -20px;"
+    src="file:///{{ exam_history_and_map_graph }}")
+
+.ui.section.divider
+
+.ui.container
+  .ui.icon.message.red.block
+    i.exclamation.circle.icon
+    p.alert Abnormal results detected.
+
+.ui.section.divider
+
+:markdown
+  ###  Vestibulo-Ocular Digital Exams
+
+p.description
+  | The vestibulo-ocular battery is designed to assess the coordinated movements of the eyes and head. These exams can provide information on saccadic movements, accuracy, reaction times, as well as the pupillary light reflex, and synchronized coordination between eye and head movements. The battery is often applied in the setting of an acute head injury or concussion and can provide quantitative metrics to track symptoms throughout recovery.
+
+mixin tests(battery)
+    a.item
+      .ui.horizontal.label(class=test_color) {{ test }}
+      .ui.basic.label(class=metric_1_color)
+        | {{ metric_1_value }} {{ metric_1_label }}
+      .ui.basic.label(class=test_1_metric_2_color)
+         | {{ metric_2_value }} {{ metric_2_label }}
+      .ui.basic.label(class=test_1_metric_3_color)
+         | {{ metric_3_value }} {{ metric_3_label }}
+
+
+.ui.divided.selection.list
+  +tests(battery1_test1)
+  +tests(battery1_test2)
+  +tests(battery1_test3)
+  +tests(battery1_test4)
+
+
+//.ui.divided.selection.list
+//  a.item
+//    .ui.yellow.horizontal.label Prosaccade
+//    .ui.basic.label(class= prosaccade_reaction_time_color)
+//      | ⬆ {{ prosaccade_reaction_time }} reaction time
+//    .ui.basic.label(class= prosaccade_acc_color)
+//      | {{ prosaccade_acc }}% accuracy
+//    .ui.basic.label(class= prosaccade_catch_up_color)
+//      | {{ prosaccade_catch_up }} catch-up saccade
+//  a.item
+//    .ui.green.horizontal.label Self-paced
+//    .ui.basic.label(class= self_paced_acc_color)
+//      | {{ self_paced_acc }} accuracy
+//    .ui.basic.label(class= self_paced_num_saccades_color)
+//      | {{ self_paced_num_saccades }} saccades/second
+//    .ui.basic.label(class= self_paced_vel_acc_color)
+//      | {{ self_paced_vel_acc }} velocity/accuracy
+//  a.item
+//    .ui.green.horizontal.label VOR
+//    .ui.basic.label(class= default_color)
+//      | {{ VOR_phase_lag }}° phase lag
+//    .ui.basic.label(class= "red")
+//      | {{ VOR_bpm }} bpm
+//    .ui.basic.label(class= "red")
+//      | {{ VOR_nystagmus }} nystagmus
+//  a.item
+//    .ui.red.horizontal.label Pupillary reflex
+//    .ui.basic.label(class= PR_max_constriction_color)
+//      | {{ PR_max_constriction }} max constrict.
+//    .ui.basic.label(class= PR_max_vel_color)
+//      | {{ PR_max_vel }} max vel.
+//    .ui.basic.label(class= PR_aniscoria_color)
+//      | {{ PR_aniscoria }} anisocoria
+
+
+
+//table.ui.celled.table
+//  thead
+//    tr
+//      th Name
+//      th Age
+//      th Location
+//      th Date
+//  tbody
+//    tr
+//      td(data-label='Name').bold {{ name  }}
+//      td(data-label='Age').bold {{ age }}
+//      td(data-label='Location').bold {{ location }}
+//      td(data-label='Date').bold {{ date }}

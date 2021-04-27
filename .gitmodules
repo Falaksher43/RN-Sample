@@ -1,0 +1,3 @@
+[submodule "matviz"]
+	path = matviz
+	url = https://github.com/jlansey/matviz.git
